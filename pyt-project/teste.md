@@ -2,8 +2,8 @@
 
 Olá pessoal,
 
-Esse material é uma primeira experiência de disponibilizar o conteúdo da disciplina de Introdução a programação Python. O objetivo é auxiliar os alunos no desenvolvimento da disciplina, bem como todas as pessoas que estejam com vontade de ingressar no universo da programação C.
-Como é uma experiência, esse material passará por melhorias com o retorno de vocês. Por isso, peço a todos que, qualquer problema que encontrarem aqui ou mesmo novas ideias, entrem em contato para que possamos verificar a melhor maneira de enriquecermos esse conteúdo.
+Estamos disponibilizando o material referente ao conteúdo da disciplina de Introdução a programação Python. O objetivo é auxiliar os alunos no desenvolvimento da disciplina, bem como todas as pessoas que estejam com vontade de ingressar no universo da programação Python.
+Caso encontrem qualquer problema no material disponibilizado ou se tiverem mesmo novas ideias e sugestões, por favor entrem em contato para que possamos verificar a melhor maneira de atuualizarmos ou enriquecermos esse conteúdo.
 
 A ideia da Tech.io é inovadora, pois permite o compartilhamento do conhecimento de maneira interativa. Não é um curso de programação, mas uma forma fixar os conhecimentos, através:
 
