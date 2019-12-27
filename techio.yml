@@ -6,7 +6,7 @@ plan:
   description: Esta é a descrição do primeiro capítulo.
   plan: 
   - title: Apresentação
-    statement: /markdowns/teste.md
+    statement: /pyt-project/teste.md
 projects:
   pyt:
     root: /pyt-project
