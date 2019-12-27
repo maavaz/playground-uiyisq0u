@@ -6,6 +6,6 @@ Para executarmos o Python Interativamente (linha de comando) utilizamos o Prompt
 
 Podemos utilizar o ambiente do Anaconda Navigator para inicializarmos o **Jupyter Qt Console**
 
-![programa](/imagens/cmd.png)
+![programa](/imagens/kernelconda.png)
 
-![programa](/imagens/cmd.png)
+![programa](/imagens/qtconsole.png)
