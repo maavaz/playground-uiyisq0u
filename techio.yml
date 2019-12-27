@@ -8,7 +8,9 @@ plan:
   - title: Apresentação
     statement: /pyt-project/intro.md
   - title: Python Interativo
-    statement: /pyt-project/inter.md  
+    statement: /pyt-project/inter.md 
+   - title: Editor Python
+    statement: /pyt-project/editor.md    
 projects:
   pyt:
     root: /pyt-project
