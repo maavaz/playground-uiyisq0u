@@ -1,11 +1,16 @@
-# Welcome!
+# Introdução!
 
-This Python template lets you get started quickly with a simple one-page playground.
+Bem vindos ao Curso de Introdução a Programação Python !. Esse curso procura ajudá-los no desenvolvimento de programas utilizando a linguagem de Programação Python.
 
-```python runnable
-print('Alô Mundo!')
-```
+# Por que Python?
 
-# Advanced usage
+A linguagem de programação Python é simples de usar, mas é uma linguagem de programação real, oferecendo muito mais estrutura e suporte a programas grandes. 
 
-If you want a more complex example (external libraries, viewers...), use the [Advanced Python template](https://tech.io/select-repo/429)
+# Por que devo Programar?
+
++ Programar significa "Resolver Problemas" logo,
+                  Fazer programas = resolver problemas
++ Programar é divertido
++ Programação é útil
++ Pode ser aplicado na maioria das atividades, por exemplo, Economia / Administração / Engenharia / etc
+
