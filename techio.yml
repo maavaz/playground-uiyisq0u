@@ -6,7 +6,9 @@ plan:
   description: Esta é a descrição do primeiro capítulo.
   plan: 
   - title: Apresentação
-    statement: /pyt-project/teste.md
+    statement: /pyt-project/intro.md
+  - title: Python Interativo
+    statement: /pyt-project/inter.md  
 projects:
   pyt:
     root: /pyt-project
