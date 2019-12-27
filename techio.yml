@@ -9,7 +9,7 @@ plan:
     statement: /pyt-project/intro.md
   - title: Python Interativo
     statement: /pyt-project/inter.md 
-   - title: Editor Python
+  - title: Editor Python
     statement: /pyt-project/editor.md    
 projects:
   pyt:
