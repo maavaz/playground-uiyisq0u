@@ -7,9 +7,9 @@ Como é uma experiência, esse material passará por melhorias com o retorno de 
 
 A ideia da Tech.io é inovadora, pois permite o compartilhamento do conhecimento de maneira interativa. Não é um curso de programação, mas uma forma fixar os conhecimentos, através:
 
-Leitura dos conceitos Básicos da Linguagem Python
-Testes para fixação dos conceitos
-Exercícios de programação
++ Leitura dos conceitos Básicos da Linguagem Python
++ Testes para fixação dos conceitos
++ Exercícios de programação
 
 # Por que Python?
 
