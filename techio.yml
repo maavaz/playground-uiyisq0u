@@ -10,7 +10,9 @@ plan:
   - title: Python Interativo
     statement: /pyt-project/inter.md 
   - title: Editor Python
-    statement: /pyt-project/editor.md    
+    statement: /pyt-project/editor.md   
+  - title: Executando comandos em Python (interativo)
+    statement: /pyt-project/python1.md     
 projects:
   pyt:
     root: /pyt-project
