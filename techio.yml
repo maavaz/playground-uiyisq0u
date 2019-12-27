@@ -1,7 +1,12 @@
-title: Introdução a Linguagem Python
+title: Introdução a Programação Python
 plan:
-- title: Python Snippet
-  statement: statement.md
+- title: Programação Python - Prof. MARCO VAZ
+plan:
+- title: Primeira parte
+  description: Esta é a descrição do primeiro capítulo.
+  plan: 
+  - title: Apresentação
+    statement: /markdowns/teste.md
 projects:
   pyt:
     root: /pyt-project
