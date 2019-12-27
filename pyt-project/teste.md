@@ -13,8 +13,15 @@ A ideia da Tech.io é inovadora, pois permite o compartilhamento do conhecimento
 
 # Por que Python?
 
-A linguagem de programação Python é simples de usar, mas é uma linguagem de programação real, oferecendo muito mais estrutura e suporte a programas grandes. 
-
++ É uma liguagem simples, pricipalmente para um curso de introdução a Programação
++ Possui muitos recursos
++ Possui uma biblioteca embutida extensa e com grande número de módulos fornecidos por terceiros
++ Possui grande variedade de aplicações
++ É uma linguagem interpretada (script)‏
++ É Multi-plataforma
++ Grátis!
++ Possui grande comunidade de programadores
+ 
 # Por que devo Programar?
 
 + Programar significa "Resolver Problemas" logo,
