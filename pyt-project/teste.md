@@ -1,6 +1,15 @@
 # Introdução!
 
-Bem vindos ao Curso de Introdução a Programação Python !. Esse curso procura ajudá-los no desenvolvimento de programas utilizando a linguagem de Programação Python.
+Olá pessoal,
+
+Esse material é uma primeira experiência de disponibilizar o conteúdo da disciplina de Introdução a programação Python. O objetivo é auxiliar os alunos no desenvolvimento da disciplina, bem como todas as pessoas que estejam com vontade de ingressar no universo da programação C.
+Como é uma experiência, esse material passará por melhorias com o retorno de vocês. Por isso, peço a todos que, qualquer problema que encontrarem aqui ou mesmo novas ideias, entrem em contato para que possamos verificar a melhor maneira de enriquecermos esse conteúdo.
+
+A ideia da Tech.io é inovadora, pois permite o compartilhamento do conhecimento de maneira interativa. Não é um curso de programação, mas uma forma fixar os conhecimentos, através:
+
+Leitura dos conceitos Básicos da Linguagem Python
+Testes para fixação dos conceitos
+Exercícios de programação
 
 # Por que Python?
 
