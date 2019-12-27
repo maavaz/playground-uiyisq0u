@@ -1,4 +1,9 @@
-title: Simple Python Template
+title: Introdução a Linguagem Python
 plan:
 - title: Python Snippet
   statement: statement.md
+projects:
+  pyt:
+    root: /pyt-project
+    runner: python:3 
+      
