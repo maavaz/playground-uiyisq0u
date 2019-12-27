@@ -8,6 +8,6 @@ Podemos utilizar o ambiente do **Anaconda Navigator**  (https://www.anaconda.com
 
 ![programa](/imagens/kernelconda.png)
 
-**JUPYTER Qt CONSOLE**
+## JUPYTER Qt CONSOLE
 
 ![programa](/imagens/qtconsole.png)
