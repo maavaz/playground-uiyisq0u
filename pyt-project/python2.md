@@ -22,5 +22,5 @@ Um comentário pode aparecer no início de uma linha ou após um espaço em bran
 
 3.56 + 2.78 # soma de 2 números reais tendo como resultado um valor do tipo real
 
-2L - 1L # subtração de 2 números inteiros Longos tendo como resultado um valor inteiro Longo
+2000000000L - 100000000L # subtração de 2 números inteiros Longos tendo como resultado um valor inteiro Longo
 ```
