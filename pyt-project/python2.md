@@ -8,7 +8,7 @@ Tipos de dados são categorias de valores que são processados de forma semelhan
           <p>listas, dicionários, tuplas e conjuntos </p>
 
 
-
+![Tipos de Dados](/imagens/tiposdedados.png)
 
 
 **OBS:** Os comentários no Python começam com o caractere de **hash(#)** e se estendem até o final da linha física. 
