@@ -1,7 +1,7 @@
 Para exibição do Python Interativo, selecione a tecla <RUN> abaixo.
-Digite as seguintes expressões aritméticas (1 em cada linha de comando).
+Digite as seguintes expressões aritméticas (uma em cada linha de comando, ao final tecle <Enter>).
 5 + 4
 3 ** 2
 4 // 3
-4 % 3
+11 % 3
 -2 * 4
