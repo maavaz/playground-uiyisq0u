@@ -6,5 +6,5 @@
 ![programa](/imagens/operaritmeticos.png)
 
 
-@[Interative Python]({"stubs": ["./www/sequencial"],"command": "sh /project/target/www/terminal.sh"
+@[Interative Python]({"stubs": ["./www/terminal"],"command": "sh /project/target/www/terminal.sh"
 })
