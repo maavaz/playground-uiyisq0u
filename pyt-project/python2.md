@@ -4,7 +4,7 @@ Tipos de dados são categorias de valores que são processados de forma semelhan
 + **Simples:** 
           numéricos - inteiros, inteiros longos, real(float), complexos 
           cadeias de caracteres  denominados de strings ‏
-+ **Compostos: **
++ **Compostos:**
           listas, dicionários, tuplas e conjuntos
 
 
