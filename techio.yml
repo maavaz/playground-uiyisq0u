@@ -12,7 +12,9 @@ plan:
   - title: Editor Python
     statement: /pyt-project/editor.md   
   - title: Executando comandos em Python (interativo)
-    statement: /pyt-project/python1.md     
+    statement: /pyt-project/python1.md 
+  - title: Tipos de dados em Python
+    statement: /pyt-project/python2.md       
 projects:
   pyt:
     root: /pyt-project
