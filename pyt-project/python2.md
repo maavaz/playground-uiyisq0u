@@ -19,7 +19,7 @@ Um comentário pode aparecer no início de uma linha ou após um espaço em bran
 -------
 **Testando os conhecimentos....**
 
-?[Ache os erros nos seguintes números:](multiple)
+?[Quais números estão representados de forma incorreta:](multiple)
 -[x] 99E2.5
 -[x] 3.0L
 -[ ] +123.E01
