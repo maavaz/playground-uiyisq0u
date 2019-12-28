@@ -16,11 +16,11 @@ Um comentário pode aparecer no início de uma linha ou após um espaço em bran
 
 ``` python runnable
 # Selecione o botão RUN para executar os comandos abaixo
-5 * 6 # Multiplicação de 2 números inteiros tendo como resultado um valor inteiro
+print(str(5 * 6)) # Multiplicação de 2 números inteiros tendo como resultado um valor inteiro
 
-5 / 6 # Divisão de 2 números inteiros tendo como resultado um valor do tipo Real (float)
+print(str(5 / 6)) # Divisão de 2 números inteiros tendo como resultado um valor do tipo Real (float)
 
-3.56 + 2.78 # soma de 2 números reais tendo como resultado um valor do tipo real
+print(str(3.56 + 2.78)) # soma de 2 números reais tendo como resultado um valor do tipo real
 
-2000000000 - 100000000 # subtração de 2 números inteiros Longos tendo como resultado um valor inteiro Longo
+print(str(2000000000 - 100000000)) # subtração de 2 números inteiros Longos tendo como resultado um valor inteiro Longo
 ```
