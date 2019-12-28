@@ -2,10 +2,10 @@
 
 Tipos de dados são categorias de valores que são processados de forma semelhante. Os tipos de dados embutidos no python podem ser:
 + **Simples:** 
-          numéricos - inteiros, inteiros longos, real(float), complexos 
-          cadeias de caracteres  denominados de strings ‏
+          <p>numéricos - inteiros, inteiros longos, real(float), complexos </p>
+          <p>cadeias de caracteres  denominados de strings ‏</p>
 + **Compostos:**
-          listas, dicionários, tuplas e conjuntos
+          <p>listas, dicionários, tuplas e conjuntos </p>
 
 
 
