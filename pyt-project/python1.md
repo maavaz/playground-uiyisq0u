@@ -5,4 +5,6 @@
 + Os operadores artiméticos usados em Python podem ser visualizados na tabela abaixo:
 ![programa](/imagens/operaritmeticos.png)
 
-@[Interative Python]({"command": "-s, --shell python"})
+
+@[Interative Python]({"stubs": ["./www/Sequencial"],"command": "sh /project/target/www/terminal.sh"
+})
