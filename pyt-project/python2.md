@@ -8,6 +8,7 @@ Tipos de dados são categorias de valores que são processados de forma semelhan
           <p>listas, dicionários, tuplas e conjuntos </p>
 
 
+### Exemplos de Tipos de dados (em expressões)
 ![Tipos de Dados](/imagens/tiposdedados.png)
 
 
