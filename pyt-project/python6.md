@@ -15,5 +15,5 @@ Uma vez criado o programa (p.ex. exemplo.py) pode excutá-lo diretamente no shel
   ```    
 ou selecionar a opção "Executar" (F5) diretamente no menu do IDE Spyder
 
-No ambiente tech.io utilizaremos os editores disponíveis na web que podem ser acessados diretamente de nossas páginas.
+**Obs:** No ambiente tech.io utilizaremos os editores disponíveis (repl.it ou paiza.io) na web que podem ser acessados diretamente de nossas páginas.
 
