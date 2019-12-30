@@ -10,8 +10,9 @@ Assim cada string aparecerá separada por um espaço em branco, como no exemplo 
 <p><b>
 print("isso", "é", "teste")</b> #comando no programa do usuário</p>
 <p><b>isso é teste</b>          #saída na tela do usuário</p>
-Para a função **print** existem alguns códigos com significado especial chamados
-de caracteres de escape, e são indicados pelo caractere “\” (barra invertida). Um deles que é o
-\n (barra invertida seguida do n). Isso é interpretado como "mude de linha", uma espécie de
-abreviação de new line. Ao inserir esse código no texto a ser mostrado, pode-se inserir linhas
-em branco no texto tornando-o mais legível na tela
+
+Outro Exemplo:
+<p><b>
+x = int(input('digite: ')) </b> # O usuário digita o número 123
+<p><b>print("você digitou: ", x) </b> # será exibida a mensagem juntamente com o número digitado</p>
+<p><b>você digitou: 123</b>          #saída na tela do usuário</p>
