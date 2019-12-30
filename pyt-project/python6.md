@@ -10,8 +10,9 @@ Um programa python gera um arquivo com a extensão **.py** e pode ser executado 
 
 ## Executando um programa
 Uma vez criado o programa (p.ex. exemplo.py) pode excutá-lo diretamente no shell do python digitando:
-      C:\Python36-32> python exemplo.py
-      
+  ```
+            C:\Python36-32> python exemplo.py
+  ```    
 ou selecionar a opção "Executar" (F5) diretamente no menu do IDE Spyder
 
 No ambiente tech.io utilizaremos os editores disponíveis na web que podem ser acessados diretamente de nossas páginas.
