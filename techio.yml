@@ -23,8 +23,10 @@ plan:
     statement: /pyt-project/python5.md   
   - title: Escrevendo Programas em Python
     statement: /pyt-project/python6.md  
-  - title: Comandos de Entrada e Saída em Python
+  - title: Comandos de Entrada e Saída - Entrada
     statement: /pyt-project/python7.md    
+  - title: Comandos de Entrada e Saída - Saída
+    statement: /pyt-project/python8.md      
 projects:
   pyt:
     root: /pyt-project
