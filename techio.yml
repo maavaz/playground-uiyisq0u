@@ -19,6 +19,8 @@ plan:
     statement: /pyt-project/python3.md 
   - title: Erros de Sintaxe em Python
     statement: /pyt-project/python4.md 
+  - title: Variáveis em Python
+    statement: /pyt-project/python5.md   
 projects:
   pyt:
     root: /pyt-project
