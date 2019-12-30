@@ -26,19 +26,6 @@ atribuição.
    Após a execução do comando a variável estará armazenando o valor movido.
 ```
 ## EXEMPLOS:
-
->>> x = 2     # Guarda o número 2 (número inteiro) numa variável chamada x. A partir desse ponto toda vez que se usar x numa expressão, o x será computado como sendo 2. Por
-exemplo:
->>> x+3
-5
->>> y = 2.1
->>> y+8.9
-11.0
-No exemplo acima foi criada uma variável y que contém o número real 2.1. A soma de y com 8.9 dá o número 11 como número real.
->>> z+3
-Traceback (most recent call last):
- File "<stdin>", line 1, in <module>
-NameError: name 'z' is not defined
 In [1]: a = 2 # Guarda o número 2 (número inteiro) na variável chamada a. A partir desse ponto toda vez que se usar a numa expressão, o a será computado como sendo 2. Por
 exemplo:
 In [2]: a + 3  # O número 3 irá ser somado ao número 2 armazenado em a, dando o resultado 5.
