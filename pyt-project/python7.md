@@ -16,5 +16,5 @@ Sintaxe:
                 
 Exemplo:
                 ** nome = input('Digite o seu Nome')** 
-# O input irá esperar a digitação do valor e, após apertar a tecla <enter>, o valor será movido para a variavel nome.                                                  
+**Obs:** O input irá esperar a digitação do valor e, após apertar a tecla <enter>, o valor será movido para a variavel nome.                                                  
                 
