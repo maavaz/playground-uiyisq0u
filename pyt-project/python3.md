@@ -18,6 +18,7 @@ NameError: name 'pront' is not defined
 No segundo tenta-se fazer a divisão do número 1 por zero, que gera um ZeroDivisionError, isto é, um erro de divisão por zero.
 ```
 >>> 1/0
+
 Traceback (most recent call last):
  File "<stdin>", line 1, in <module>
 ZeroDivisionError: integer division or modulo by zero
