@@ -11,7 +11,7 @@ Ex.:
    Ex.: "a"*10 é o mesmo que "aaaaaaaaaa"
 + Os caracteres não imprimíveis (pex Enter) podem ser expressos usando notação “barra-invertida” (\)
 
-  ++ "\n" é o mesmo que new line (Enter)
+  +"\n" é o mesmo que new line (Enter)
   ++ "\r" é o mesmo que carriage return (retornar para o início da linha)
   ++ "\t" é o mesmo que tab 
   ++ "\b" é o mesmo que backspace
