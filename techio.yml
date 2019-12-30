@@ -14,7 +14,9 @@ plan:
   - title: Executando comandos em Python (interativo)
     statement: /pyt-project/python1.md 
   - title: Tipos de dados em Python
-    statement: /pyt-project/python2.md       
+    statement: /pyt-project/python2.md   
+  - title: Erros de Sintaxe em Python
+    statement: /pyt-project/python3.md 
 projects:
   pyt:
     root: /pyt-project
