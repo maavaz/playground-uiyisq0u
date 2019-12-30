@@ -2,15 +2,16 @@
 
 Para que um programa possa manipular os dados, estes precisam estar armazenados em locais da memória do computador, denominado de variáveis.
 ``` 
-As variáveis podem ser definidas como locais de memória que servem para armazenar temporariamente (durante a execução do programa) dad(valores) que devem ser utilizados pelo programa.
+As variáveis podem ser definidas como locais de memória que servem para armazenar temporariamente (durante a execução do programa ou seção do terminal) dados(valores) que deverão ser utilizados na execução do programa ou na seção do terminal.
 ```
 Muitas vezes é necessário guardar um dado (p.ex. um número) digitado pelo usuário para ser usado em um cálculo subsequente, gravá-lo em um arquivo ou até enviá-lo pela internet para outro local. Esse
 é o objetivo da variável. O nome "Variável" é dado porque a informação guardada pode ser alterada, isto é, pode variar.
+```
 Toda variável tem:
 • Um nome - que é como ela será chamada ao guardar e recuperar a informação da memória;
 • Um tipo - esse tipo (inteiro, real etc.) é definido quando variável é criada, baseando-se no conteúdo que foi a ela atribuído; e
 • Uma abrangência (ou escopo) - uma variável só pode ser usada (para armazenar e resgatar dados) no módulo do programa que foi criada.
-
+```
 ## Criação da Variável
 Uma variável é criada pelo programa python no momento que precisamos armazenar um valor no seu interior. A partir daí, essa variável pode ser usada ao longo do programa.
 O nome de uma variável é dado pelo programador e é constituído por uma sequência qualquer de caracteres (letras maiusculas/minúsculas ou números), mas sempre iniciando por uma letra.
