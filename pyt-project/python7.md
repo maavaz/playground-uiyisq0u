@@ -12,9 +12,10 @@ Este comando interrompe a execução do programa e espera que o usuário digite 
 Sintaxe:
 ```
                 variável = input('Mensagem para o usuário')
-                exemplo:
                 
-                nome = input('Digite o seu Nome') # o comando input irá esperar que seja digitado um valor e após acinar a tecla <enter>
-                                                  # esse valor será movido para a variavel nome.
+                Exemplo:
+                
+                nome = input('Digite o seu Nome') 
+                # O input irá esperar a digitação do valor e, após apertar a tecla <enter>, o valor será movido para a variavel nome.
 ```                                                  
                 
