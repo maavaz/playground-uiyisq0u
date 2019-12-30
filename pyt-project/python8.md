@@ -22,5 +22,4 @@ x = int(input('digite: ')) </b> # O usuário digita o número 123</p>
 print("Essa mensagem aparece na primeira linha\nEnquanto essa aparece na segunda") 
 x = 10
 print("O quadrado do número", x, "é igual a", x**2)
-
 ``` 
