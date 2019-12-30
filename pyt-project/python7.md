@@ -5,7 +5,6 @@ o comando de entrada permite que o usuário envie dados para a variável do prog
 na variável do programa.
 
 ## Comando de Entrada em Python
----------------------------------
 
 Esse comando permite receber o valor digitado no teclado pelo usuário e atribuir esse valor a variável associadas ao comando.
             Comando (função) de entrada do python: **input** 
