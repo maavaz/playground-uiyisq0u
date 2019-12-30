@@ -17,5 +17,5 @@ Sintaxe:
 Exemplo:
             <p>**nome = input('Digite o seu Nome')**</p>
             
-<p>**Obs:** O input irá esperar a digitação do valor e, após apertar a tecla <enter>, o valor será movido para a variavel nome.</p>                                                  
+**Obs:** O input irá esperar a digitação do valor e, após apertar a tecla <enter>, o valor será movido para a variavel nome.                                                 
                 
