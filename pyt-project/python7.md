@@ -1,12 +1,12 @@
 # Comandos de Entrada e Saída em Python
 
 Os comandos de entrada e saída de um programa escrito em uma linguagem qualquer possuem a função de comunicação com o mundo exterior, isto é,
-o comando de entrada permite que o usuário envie dados para a(s) variável(eis) do programa e o comando de saída permmite exibir o(s) valor(es) armazenados
-na(s) variável(eis) do programa.
+o comando de entrada permite que o usuário envie dados para a variável do programa e o comando de saída permmite exibir o valor armazenados
+na variável do programa.
 
 ## Comando de Entrada em Python
 
-Esse comando permite receber o valor digitado no teclado pelo usuário e atribuir esse valor a(s) variável(eis) associadas ao comando.
+Esse comando permite receber o valor digitado no teclado pelo usuário e atribuir esse valor a variável associadas ao comando.
             Comando (função) de entrada do python: **input** 
 
 Este comando interrompe a execução do programa e espera que o usuário digite alguma coisa e depois pressione a tecla "enter".
