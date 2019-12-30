@@ -10,7 +10,8 @@ Esse comando permite receber o valor digitado no teclado pelo usuário e atribui
 Comando (função) de entrada do python: **input** 
 Este comando interrompe a execução do programa e espera que o usuário digite alguma coisa e depois pressione a tecla <enter>.
 
-Sintaxe:        ###variável = input('Mensagem para o usuário')
+Sintaxe:        
+###variável = input('Mensagem para o usuário')
                 
         **Exemplo:**
                 
