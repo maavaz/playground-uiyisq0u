@@ -25,7 +25,11 @@ plan:
     statement: /pyt-project/python7.md    
   - title: Comandos de Entrada e Saída - Saída
     statement: /pyt-project/python8.md   
-
+plan:
+- title: Segunda parte
+  description: Esta é a descrição do Segundo capítulo.
+  
+  
 projects:
   pyt:
     root: /pyt-project
