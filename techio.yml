@@ -15,8 +15,10 @@ plan:
     statement: /pyt-project/python1.md 
   - title: Tipos de dados em Python
     statement: /pyt-project/python2.md   
-  - title: Erros de Sintaxe em Python
+  - title: Tipos de dados em Python (Strings)
     statement: /pyt-project/python3.md 
+  - title: Erros de Sintaxe em Python
+    statement: /pyt-project/python4.md 
 projects:
   pyt:
     root: /pyt-project
