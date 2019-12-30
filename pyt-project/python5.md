@@ -26,8 +26,8 @@ atribuição.
    Após a execução do comando a variável estará armazenando o valor movido.
 ```
 ## EXEMPLOS:
-In [1]: a = 2 # Guarda o número 2 (número inteiro) na variável chamada a. A partir desse ponto toda vez que se usar a numa expressão, o a será computado como sendo 2. Por
-exemplo:
+In [1]: a = 2 # Guarda o número 2 (número inteiro) na variável chamada a. A partir desse ponto toda vez que se usar a numa expressão, o a será computado como sendo 2. Por exemplo:
+
 In [2]: a + 3  # O número 3 irá ser somado ao número 2 armazenado em a, dando o resultado 5.
 Out[2]: 5
 
