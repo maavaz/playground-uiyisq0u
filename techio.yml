@@ -29,9 +29,10 @@ plan:
 - title: Segunda parte
   description: Esta é a descrição do Segundo capítulo.
   plan:
-  - title: Comandos de Entrada e Saída - Saída
-    statement: /pyt-project/python8.md   
-    
+  - title: Desenvolvendo um programa
+    statement: /pyt-project/python9.md    
+  - title: Processamento Sequencial
+    statement: /pyt-project/python10.md        
 projects:
   pyt:
     root: /pyt-project
