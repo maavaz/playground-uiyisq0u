@@ -1,3 +1,3 @@
-#Processamento Sequencial
+# Processamento Sequencial
 
 O processamento sequencial 
