@@ -1,6 +1,6 @@
 ## Comando de Saída em Python
 
-Esse comando permite exibir na tela do usuário uma mensagem e/ou conteúdo de variáveis. 
+Esse comando permite exibir na tela do usuário mensagem e/ou conteúdo de variáveis do tipo String. 
 <p>Sintaxe:</p>
                 <p><b>print(mensagem)</b></p>
 
