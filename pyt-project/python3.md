@@ -10,12 +10,12 @@ Ex.:
 + O operador “*” pode ser usado para repetir strings
    Ex.: "a"*10 é o mesmo que "aaaaaaaaaa"
 + Os caracteres não imprimíveis (pex Enter) podem ser expressos usando notação “barra-invertida” (\)
-  \n é o mesmo que new line (Enter)
-  \r é o mesmo que carriage return (retornar para o início da linha)
-  \t é o mesmo que tab 
-  \b é o mesmo que backspace
-  \\ é o mesmo que \ 
-  \x41 é o mesmo que o caractere cujo código hexadecimal é 41 (“A” maiúsculo)
+  \\\n é o mesmo que new line (Enter)
+  \\\r é o mesmo que carriage return (retornar para o início da linha)
+  \\\t é o mesmo que tab 
+  \\\b é o mesmo que backspace
+  \\\\ é o mesmo que \ 
+  \\\x\4\1 é o mesmo que o caractere cujo código hexadecimal é 41 (“A” maiúsculo)
   Exemplos:
   ```
   Obs: O comando print exibe as informações na tela do usuário. Formato print(string)
