@@ -33,6 +33,8 @@ plan:
   plan: 
   - title: Desenvolvendo um programa
     statement: /pyt-project/python9.md    
+  - title: Processamento Sequencial
+    statement: /pyt-project/python10.md      
 projects:
   pyt:
     root: /pyt-project
