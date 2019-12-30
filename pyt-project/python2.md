@@ -27,4 +27,5 @@ Um comentário pode aparecer no início de uma linha ou após um espaço em bran
 -[ ] .0006
 -[ ] 3j
 -[x]12,345
+------
 
