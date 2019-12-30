@@ -20,8 +20,9 @@ No segundo tenta-se fazer a divisão do número 1 por zero, que gera um ZeroDivi
 >>> 1/0
 
 Traceback (most recent call last):
- File "<stdin>", line 1, in <module>
-ZeroDivisionError: integer division or modulo by zero
+<ipython-input-18-9e1622b385b6> in <module>()
+----> 1 1/0
+ZeroDivisionError: division by zero
 ```
 
 As mensagens de erro são fontes importantes para ajudar a descobrir problemas nos programas durante a fase de desenvolvimento.
