@@ -14,7 +14,13 @@ Toda variável tem:
 ```
 ## Criação da Variável
 Uma variável é criada pelo programa python no momento que precisamos armazenar um valor no seu interior. A partir daí, essa variável pode ser usada ao longo do programa.
-O nome de uma variável é dado pelo programador e é constituído por uma sequência qualquer de caracteres (letras maiusculas/minúsculas ou números), mas sempre iniciando por uma letra.
+O nome de uma variável é dado pelo programador e deve seguir as seguintes regras
++ Formado por uma sequência qualquer de caracteres (letras maiusculas/minúsculas ou números);
++ Tem que começar por uma letra ou o caractere sublinhado ( _ );
++ Não pode ter letras acentuadas, nem espaço em branco;
++ Maiúsculas e minúsculas são letras diferentes;
++ Não pode ser uma palavra reservada da linguagem; e
++ Deve ser um nome único, não deve conflitar com nomes de variáveis e funções predefinidas.
 
 ## Comando de Atribuição
 O comando de atribuição (=) é um comando que possibilita o programados mover valores para dentro das variáveis. Uma variável só pode ser usada depois de criada através de um comando de
