@@ -21,6 +21,8 @@ plan:
     statement: /pyt-project/python4.md 
   - title: Variáveis em Python
     statement: /pyt-project/python5.md   
+  - title: Escrevendo Programas em Python
+    statement: /pyt-project/python6.md  
 projects:
   pyt:
     root: /pyt-project
