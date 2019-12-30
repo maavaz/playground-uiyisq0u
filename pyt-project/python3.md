@@ -18,7 +18,7 @@ Ex.:
   \x41 é o mesmo que o caractere cujo código hexadecimal é 41 (“A” maiúsculo)
   Exemplos:
   ```
-  Obs: O comando print exibe as informações na tela do usuário. Formato <b>print(string)</b>
+  Obs: O comando print exibe as informações na tela do usuário. Formato print(string)
 >>> print "ab\rd" # \r retorna para o início da linha, portanto irá exibir o caracter d seguido do b.
 db
 >>> print "abc\td" # \t irá realizar a tabulação (6 espaços em branco) depois irá exibir a letra d
