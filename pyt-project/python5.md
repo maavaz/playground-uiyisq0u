@@ -27,7 +27,7 @@ atribuição.
 ```
 ## EXEMPLOS:
 ```
-In [1]: a = 2       # Guarda o número 2 (número inteiro) na variável chamada a. A partir desse ponto toda vez que se usar a numa expressão,                 o a será computado como sendo 2. Por exemplo:
+In [1]: a = 2       # Guarda o número 2 (número inteiro) na variável chamada a. A partir desse ponto toda vez que se usar a numa expressão, o a será computado como sendo 2. Por exemplo:
 
 In [2]: a + 3      # O número 3 irá ser somado ao número 2 armazenado em a, dando o resultado 5.
 Out[2]: 5
@@ -37,7 +37,7 @@ In [3]: b = 3.2
 In [4]: b - 1.1
 Out[4]: 2.1
 
-In [5]: c + 4      # Nesse caso como a variável c não foi criada, não é possível realizar a conta, assim é gerada uma mensagem de erro                      avisando que a variável c não está definida. 
+In [5]: c + 4      # Nesse caso como a variável c não foi criada, não é possível realizar a conta, assim é gerada uma mensagem de erro      avisando que a variável c não está definida. 
 ---------------------------------------------------------------------------
 NameError                                 Traceback (most recent call last)
 <ipython-input-5-8271c808b9af> in <module>()
