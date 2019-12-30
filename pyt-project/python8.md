@@ -8,8 +8,8 @@ Uma das variações da sintaxe da função é a que permite que várias strings 
                 <p><b>print(string 1, string 2, …, string n )</b></p>
 Assim cada string aparecerá separada por um espaço em branco, como no exemplo a seguir:
 <p><b>
-print("isso", "é", "teste") <- comando no programa do usuário
-isso é teste <- saída na tela do usuário
+print("isso", "é", "teste") <- comando no programa do usuário</b></p>
+<p><b>isso é teste <- saída na tela do usuário
 </b></p>
 Para a função **print** existem alguns códigos com significado especial chamados
 de caracteres de escape, e são indicados pelo caractere “\” (barra invertida). Um deles que é o
