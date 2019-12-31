@@ -12,4 +12,6 @@ Os comandos/instruções em um progrma são executados um após o outro, na sequ
  #### Exercício 1  
 ---
 Faça um programa que peça o raio de um círculo, calcule e mostre sua área. (área do círculo = π x raio<sup>2</sup> e π = 3.1415)
+---
 
+@[Programacao Python]({"stubs": ["./www/terminal2"],"command": "sh /project/target/www/terminal2.sh" })
