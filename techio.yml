@@ -31,7 +31,9 @@ plan:
   - title: Desenvolvendo um programa
     statement: /pyt-project/python9.md    
   - title: Processamento Sequencial
-    statement: /pyt-project/python10.md        
+    statement: /pyt-project/python10.md
+  - title: Processamento Sequencial (Continuação)
+    statement: /pyt-project/python11.md       
 projects:
   pyt:
     root: /pyt-project
