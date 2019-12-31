@@ -9,7 +9,7 @@ Os comandos/instruções em um progrma são executados um após o outro, na sequ
 + Os  programas deverão ser desenvolvidos utilizando o `IDE Trinket (trinket.io)` apresentado abaixo. O programa não será salvo, caso queira salvar sua solução copie e cole no Notepad ou desenvolva utilizando um IDE Desktop (pex. Spyder)
 + As soluções dos programas estão abaixo do enunciado, mas aconselhamos a vê-las somente após tentar desenvolver sua própria solução. 
 ---
- ###### Exercício 1  
+ ##### Exercício 1  
 ---
 Faça um programa que peça o raio de um círculo, calcule e mostre sua área. (área do círculo = π x raio<sup>2</sup> e π = 3.1415)
 
