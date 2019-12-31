@@ -28,8 +28,9 @@ print1("O circulo de raio",raio, " tem area igual a", area)
  #### Exercício 2  
 ---
 Faça um Programa que peça a temperatura em graus Fahrenheit, transforme e mostre a temperatura em graus Celsius.
+``` math
 C = \frac{5 x (F - 32)}{9}
-
+```
 ---
 
 @[Programacao Python]({"stubs": ["./www/terminal2"],"command": "sh /project/target/www/terminal2.sh" })
