@@ -20,7 +20,7 @@ Faça um programa que peça o raio de um círculo, calcule e mostre sua área. (
 ``` python
 raio = float(input("digite o raio do círculo:"))
 area = 3.1415 * raio**2
-print1("O circulo de raio",raio, " tem area igual a", area)
+print("O circulo de raio",raio, " tem area igual a", area)
 ```
 :::
 
@@ -37,8 +37,8 @@ C = \frac{5 \times (F - 32)}{9}
 
 ::: Solução
 ``` python
-raio = float(input("digite o raio do círculo:"))
-area = 3.1415 * raio**2
-print1("O circulo de raio",raio, " tem area igual a", area)
+farenheit = float(input("Digite uma temperatura em graus farenheit:"))
+celsius = 5 * (farenheit - 32)/9
+print("A temperatura", farenheit, "ºF corresponde a", celsius,"ºC")
 ```
 :::
