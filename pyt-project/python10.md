@@ -33,7 +33,7 @@ C = \frac{5 \times (F - 32)}{9}
 ```
 ---
 
-@[Programacao Python]({"stubs": ["./www/terminal"],"command": "sh /project/target/www/terminal3.sh" })
+@[Programacao Python]({"stubs": ["./www/terminal2"],"command": "sh /project/target/www/terminal3.sh" })
 
 ::: Solução
 ``` python
