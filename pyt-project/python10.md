@@ -29,7 +29,7 @@ print1("O circulo de raio",raio, " tem area igual a", area)
 ---
 Faça um Programa que peça a temperatura em graus Fahrenheit, transforme e mostre a temperatura em graus Celsius.
 ``` math
-C = \frac{5 \x (F - 32)}{9}
+C = \frac{5 \times (F - 32)}{9}
 ```
 ---
 
