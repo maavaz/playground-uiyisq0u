@@ -44,4 +44,4 @@ print(valorum, valordois, valorum+valordois)
 ---
  #### Exercício 1  
 ---
-Faça um programa para calcular a quantidade de latas de tintas para pintar uma parede. O programa deverá solicitar ao usuário, a altura (float), a largura(float) e o comprimento(float) da parede. Considere que a cobertura da tinta é de 1 litro para cada 3 metros quadrados e que a tinta é vendida em latas de 18 litros, que custam R$ 170,00. Informe ao usuário a quantidades de latas de tinta a serem compradas e o preço total.
+Faça um programa para calcular a quantidade de latas de tintas para pintar uma parede. O programa deverá solicitar ao usuário, a altura (float) e o comprimento(float) da parede. Considere que a cobertura da tinta é de 1 litro para cada 3 metros quadrados e que a tinta é vendida em latas de 18 litros, que custam R$ 170,00. Informe ao usuário a quantidades de latas de tinta a serem compradas e o preço total.
