@@ -8,7 +8,7 @@ A forma geral do comando **if** é:
                                   comando 2
                                   ...
                                   comando n 
-                           próximo comando não recuado                                                                  
+                               próximo comando não recuado                                                                  
 ```
 + A execução desse conjunto de comandos associados ao **if** dependerá da avaliação (verdadeira ou Falsa) da(s) condição(ões) associada(s).
 + **Atenção:** É importante que os comandos associados a estrutura **if** iniciem sempre na mesma coluna (caso contrário o interpretador irá emitir um erro). 
