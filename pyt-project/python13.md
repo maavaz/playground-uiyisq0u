@@ -10,7 +10,7 @@ Existe uma construção que permite formatar a saída com certa facilidade: é o
  
  Para os números inteiros usa-se o código:
  
-                     **:nd**, onde n é o número mínimo de espaços reservados para o número.
+                     <b>:nd</b>, onde n é o número mínimo de espaços reservados para o número.
     
 O número ficará alinhado com a margem direita do espaço reservado ao número. veja o exemplo abaixo:
 
