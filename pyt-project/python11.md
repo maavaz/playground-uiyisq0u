@@ -45,8 +45,15 @@ Obs.: Salário Bruto - Descontos = Salário Líquido.
 
 ::: Solução
 ``` python
-farenheit = float(input("Digite uma temperatura em graus farenheit:"))
-celsius = 5 * (farenheit - 32)/9
-print("A temperatura", farenheit, "ºF corresponde a", celsius,"ºC")
+sbruto = float(input("digite o seu salario bruto:"))
+inss = 0.08 * sbruto
+ir = 0.11 * sbruto
+sindi = 0.05 * sbruto
+sliq = sbruto - (ir + inss + sindi)
+print("+ Salário Bruto:   R$",sbruto)
+print("- IR (11%):        R$",ir)
+print("- INSS (8%):       R$",inss)
+print("- Sindicato ( 5%): R$",sindi)
+print("= Salário Liquido: R$",sliq)
 ```
 :::
