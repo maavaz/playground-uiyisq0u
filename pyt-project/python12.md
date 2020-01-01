@@ -46,6 +46,7 @@ OBS:Os exercícios a seguir não possuem gabarito, caso desejem a correção fav
 ---
 <p></p>
 Faça um programa para calcular a quantidade de latas de tintas para pintar uma parede. O programa deverá solicitar ao usuário, a altura (float) e o comprimento(float) da parede. Considere que a cobertura da tinta é de 1 litro para cada 3 metros quadrados e que a tinta é vendida em latas de 3,6 litros, que custam R$ 107,00. Informe ao usuário a quantidades de latas de tinta a serem compradas e o preço total.
+<p></p>
 ---
  #### Exercício 2  
 ---
@@ -55,7 +56,7 @@ Um determinado prêmio de loteria saiu para um bolão de três amigos. Uma lei g
 + O segundo recebera 32%;
 + O terceiro recebera o restante;
 Faça um programa que leia o valor total do prêmio, calcule o desconto, o valor que cada um tem direito e imprima o total do prêmio, o premio descontado o imposto e a quantia recebida por cada um dos ganhadores.
-
+<p></p>
 ---
  #### Exercício 3  
 ---
