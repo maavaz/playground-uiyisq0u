@@ -34,10 +34,11 @@ print(valorum, valordois, valorum+valordois)
 -[ ] 52 53 105
 -[x] 25 125 150
 -[ ] nenhuma das anteriores está correta
----
+
 #### Exercícios
 
 <p>OBS:OS exercícios a seguir não possuem gabarito, caso desejem a correção favor enviar sua solução por mensagem no Tech.io</p>
+
 ---
  #### Exercício 1  
 ---
