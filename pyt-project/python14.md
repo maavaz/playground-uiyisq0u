@@ -8,11 +8,11 @@ A forma geral do comando **if** é:
                                   comando 2
                                   ...
                                   comando n 
-                               próximo comando não recuado                                                                  
+                               comando não pertencente ao if                                                                  
 ```
 + A execução desse conjunto de comandos associados ao **if** dependerá da avaliação (verdadeira ou Falsa) da(s) condição(ões) associada(s).
 + **Atenção:** É importante que os comandos associados a estrutura **if** iniciem sempre na mesma coluna (caso contrário o interpretador irá emitir um erro). 
-+ Necessariamente esses comandos devem estar recuados à direita em relação a estrutura para demonstrar pertencimentos. 
++ Necessariamente esses comandos devem estar recuados à direita em relação a estrutura para demonstrar pertencimento. 
 + A(s) condição(ões) é(são) representada(s) através de expressões relacionais. 
 + As expressões relacionais permitem a comparação de valores de mesmo tipo, cujo resultado é um valor do tipo Verdadeiro (True) ou Falso (False). 
 
