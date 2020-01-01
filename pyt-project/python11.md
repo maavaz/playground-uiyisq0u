@@ -31,7 +31,7 @@ print("cubo=",cubo)
  #### Exercício 4 
 ---
 Faça um programa que pergunte quanto alguém ganha no mês de salário bruto. Calcule e mostre o total do seu salário líquido no referido mês, sabendo-se que são descontados 11% para o Imposto de Renda, 8% para o INSS e 5% para o sindicato. A saída do programa deve escrever o seguinte texto:
-+ Salário Bruto: R$ valor
+"+" Salário Bruto: R$ valor
 - IR (11%): R$ valor
 - INSS (8%): R$ valor
 - Sindicato ( 5%): R$ valor
