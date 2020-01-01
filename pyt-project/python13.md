@@ -19,6 +19,6 @@ O número ficará alinhado com a margem direita do espaço reservado ao número.
 
 Para os números reais (float), pode-se fixar o número de casas decimais que será exibido usando o código:
 
-                    :.nf , onde n é o número de casas decimais para o arredondamento.  
+                    :.nf, onde n é o número de casas decimais para o arredondamento.  
                     
  ![programa](/imagens/format1.png)
