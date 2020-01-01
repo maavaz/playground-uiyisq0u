@@ -13,9 +13,17 @@
 
 ::: Solução
 ``` python
-raio = float(input("digite o raio do círculo:"))
-area = 3.1415 * raio**2
-print("O circulo de raio",raio, " tem area igual a", area)
+numint1 = int(input("digite um número inteiro:"))
+numint2 = int(input("digite outro número inteiro:"))
+numfloat = float(input("digite um número real:"))
+
+produto = (2*numint1) * (numint2/2)
+soma = (3*numint1) + numfloat
+cubo = numfloat ** 3
+
+print("produto=",produto)
+print("soma=",soma)
+print("cubo=",cubo)
 ```
 :::
 
