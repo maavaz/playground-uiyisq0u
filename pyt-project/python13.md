@@ -10,7 +10,7 @@ Existe uma construção que permite formatar a saída com certa facilidade: é o
  
  Para os números inteiros usa-se o código:
  
-                     <b>:nd</b>, onde n é o número mínimo de espaços reservados para o número.
+                     :nd, onde n é o número mínimo de espaços reservados para o número.
     
 O número ficará alinhado com a margem direita do espaço reservado ao número. veja o exemplo abaixo:
 
@@ -19,6 +19,6 @@ O número ficará alinhado com a margem direita do espaço reservado ao número.
 
 Para os números reais (float), pode-se fixar o número de casas decimais que será exibido usando o código:
 
-                    **:.nf**, onde n é o número de casas decimais para o arredondamento.  
+                    :.nf , onde n é o número de casas decimais para o arredondamento.  
                     
  ![programa](/imagens/format1.png)
