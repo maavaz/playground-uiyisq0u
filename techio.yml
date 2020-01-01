@@ -37,7 +37,9 @@ plan:
   - title: Exercitando
     statement: /pyt-project/python12.md   
   - title: Saída Formatada
-    statement: /pyt-project/python13.md      
+    statement: /pyt-project/python13.md  
+  - title: Processamento Condicional
+    statement: /pyt-project/python14.md    
 projects:
   pyt:
     root: /pyt-project
