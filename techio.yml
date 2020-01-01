@@ -35,7 +35,9 @@ plan:
   - title: Processamento Sequencial (Continuação)
     statement: /pyt-project/python11.md 
   - title: Exercitando
-    statement: /pyt-project/python12.md    
+    statement: /pyt-project/python12.md   
+  - title: Saída Formatada
+    statement: /pyt-project/python13.md      
 projects:
   pyt:
     root: /pyt-project
