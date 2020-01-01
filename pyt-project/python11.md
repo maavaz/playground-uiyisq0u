@@ -2,6 +2,7 @@
 ---
  #### Exercício 3 
 ---
+
 Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
 a) o produto do dobro do primeiro com metade do segundo .
 b) a soma do triplo do primeiro com o terceiro.
@@ -21,8 +22,7 @@ print("O circulo de raio",raio, " tem area igual a", area)
 ---
  #### Exercício 4 
 ---
-Faça um programa que pergunte quanto alguém ganha no mês de salário bruto. Calcule e mostre o total do seu salário líquido no referido mês, sabendo-se que são
-descontados 11% para o Imposto de Renda, 8% para o INSS e 5% para o sindicato. A saída do programa deve escrever o seguinte texto:
+Faça um programa que pergunte quanto alguém ganha no mês de salário bruto. Calcule e mostre o total do seu salário líquido no referido mês, sabendo-se que são descontados 11% para o Imposto de Renda, 8% para o INSS e 5% para o sindicato. A saída do programa deve escrever o seguinte texto:
 + Salário Bruto: R$ valor
 - IR (11%): R$ valor
 - INSS (8%): R$ valor
