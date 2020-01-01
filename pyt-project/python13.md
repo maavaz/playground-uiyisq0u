@@ -7,13 +7,18 @@ Existe uma construção que permite formatar a saída com certa facilidade: é o
  
  Além da formatação posicional das variáveis, é possível, também, incluir a especificação da largura que se deseja reservar para um número, assim como o número de casas decimais que serão exibidos. Para efetuar a formatação, são utilizados códigos dentro da marcação dos parêntesis e seguidos de : (dois pontos).
  
- <p>Para os números inteiros usa-se o código:</p>
-                     **:nd**, onde n é o número mínimo de espaços reservados para o número. 
+ 
+ Para os números inteiros usa-se o código:
+ 
+                     **:nd**, onde n é o número mínimo de espaços reservados para o número.
+    
 O número ficará alinhado com a margem direita do espaço reservado ao número. veja o exemplo abaixo:
 
  ![programa](/imagens/format2.png)
-  <p></p>
+
+
 Para os números reais (float), pode-se fixar o número de casas decimais que será exibido usando o código:
+
                     **:.nf**, onde n é o número de casas decimais para o arredondamento.  
                     
  ![programa](/imagens/format1.png)
