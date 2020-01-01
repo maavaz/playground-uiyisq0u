@@ -39,7 +39,7 @@ print(valorum, valordois, valorum+valordois)
 ### Exercícios
 ---
 
-<p>OBS:OS exercícios a seguir não possuem gabarito, caso desejem a correção favor enviar sua solução por mensagem no Tech.io</p>
+<p>OBS:Os exercícios a seguir não possuem gabarito, caso desejem a correção favor enviar sua solução por mensagem no Tech.io. Desenvolva-os no editor python de sua preferência</p>
 
 ---
  #### Exercício 1  
