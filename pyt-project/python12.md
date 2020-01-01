@@ -29,14 +29,15 @@ valorum   = 5 ** 2
 valordois = 5 ** 3
 print(valorum, valordois, valorum+valordois)
 ```
-?[Dado o recho de código acima, o que será impresso no comando print](single)
+?[Dado o trecho de código acima, o que será impresso no comando print](single)
 -[ ] 10 15 25
 -[ ] 52 53 105
 -[x] 25 125 150
 -[ ] nenhuma das anteriores está correta
 ---
 #### Exercícios
-***OBS:*** OS exercícios a seguir não possuem gabarito, caso desejem a correção favor enviar sua solução por mensagem no Tech.io
+
+<p>***OBS:*** OS exercícios a seguir não possuem gabarito, caso desejem a correção favor enviar sua solução por mensagem no Tech.io</p>
 ---
  #### Exercício 1  
 ---
