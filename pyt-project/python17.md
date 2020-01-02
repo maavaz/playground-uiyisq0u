@@ -76,7 +76,7 @@ print("o valor de sua compra é:", compra)
 A escola “APRENDER” faz o pagamento de seus professores por hora/aula mais 15% do salário referente ao Descanso Semanal Remunerado (DSR). Faça um programa que leia o nível do professor (1 ou 2) e a quantidade de horas de aula dadas no Mês, calcule e exiba o salário de um professor. Sabe-se que o valor da hora/aula segue a tabela abaixo: 
 + Professor Nível 1 R$56,00 por hora/aula 
 + Professor Nível 2 R$66,00 por hora/aula 
-
+Obs: Exiba o salário formatado com 2 casas decimais.
  
 ::: Solução
 
@@ -84,12 +84,12 @@ A escola “APRENDER” faz o pagamento de seus professores por hora/aula mais 1
 horas= int(input("Digite a quantidade de horas trabalhadas :"))
 nivel = int(input("Digite o nivel do professor(1 ou 2): "))
 if nivel == 1:
-   salario= horas * 56
+   salario= horas * 56.00
 else:
-   salario= horas * 66
+   salario= horas * 66.00
 dsr = salario *  0.15;
 salario = salario + dsr;
-print("o salario do professor é:", salario)
+print("o salario do professor é:{0:.2f}".format(salario))
 
 ```
 :::
