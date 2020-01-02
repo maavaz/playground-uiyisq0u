@@ -38,8 +38,7 @@ print ("H")
 ----
 Escreva um programa C que peça a idade de uma pessoa e, se a idade digitada for 21 ou mais anos, imprima a idade juntamente com a mensagem "Você já é maior de 21 anos".
 
-@[IDE]({"stubs": ["./www/condicional"],"command": "sh /project/target/www/condicional1.sh"
-})
+ 
 ::: Solução
 
 ``` C
@@ -92,8 +91,7 @@ A escola “APRENDER” faz o pagamento de seus professores por hora/aula mais 1
 + Professor Nível 1 R$56,00 por hora/aula 
 + Professor Nível 2 R$66,00 por hora/aula 
 
-@[IDE]({"stubs": ["./www/condicional"],"command": "sh /project/target/www/condicional1.sh"
-})
+ 
 ::: Solução
 
 ``` C
