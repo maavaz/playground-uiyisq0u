@@ -24,3 +24,4 @@ else:
    comando n se todas as condições anteriores forem falsas 
 primeiro comando depois do if
 ```
+Apenas um bloco de comandos será executado. Caso a condição 1 seja verdadeira, apenas o bloco de comandos da condição 1 é que será executado. Se a condição 1 for falsa, a condição 2 será testada. Caso a condição 2 seja verdadeira, apenas o bloco de comandos da condição 2 é que será executado, caso contrário testa-se a próxima condição e assim sucessivamente até encontrar uma condição verdadeira, ou que todas as condições sejam falsas. Se todas as condições forem falsas o bloco de comandos depois da clausula else será executado. Podem existir tantos testes **elif** quanto sejam necessários, e a clausula else é opcional. 
