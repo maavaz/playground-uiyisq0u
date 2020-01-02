@@ -2,9 +2,9 @@
 
 ### Condicional Múltipla
 
-A estrutura do if simples, bem como a do if com cláusula else testam apenas uma única condição (simples ou composta). Entretanto existem situações em que é necessário testar várias condições onde
-apenas uma é verdadeira, e apenas esse bloco será executado. Essa situação pode ser trabalhada com vários comandos if's encadeados onde cada um possui uma condição. 
-Há uma variação da estrutura **if** projetada para tratar essas situações, vista a seguir:
+A estrutura do **if simples**, bem como a do **if** com **cláusula else** testam apenas uma única condição (simples ou composta). Entretanto existem situações em que é necessário testar várias condições onde
+apenas uma é verdadeira, e apenas esse bloco será executado. Essa situação pode ser trabalhada com vários comandos **if's encadeados** onde cada um possui uma condição. Essa variação da estrutura **if** foi projetada para tratar essas situações. 
+Sua forma geral é vista a seguir:
 ```
 if condição 1:
    comando 1 se condição 1 for verdadeira
