@@ -30,7 +30,7 @@ print ("G")
 print ("H")
 ```
 
-?[Que sequência será impressa pelo programa, caso as condições q1 e q2 sejam verdadeiras:] (single)
+?[Que sequência será impressa pelo programa, caso as condições q1 e q2 sejam verdadeiras:]
 -[x] A B D E G H.
 -[ ] A C D F G H.
 -[ ] A B D F G H.
