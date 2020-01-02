@@ -37,7 +37,11 @@ else:
 Quando uma estrutura condicional possui mais de uma condição, elas podem ser combinadas pelos operadores lógicas **and (e)**, **or (ou não exclusivo)** e **not (inversão)** para formar uma condição composta. A tabela abaixo lista a forma com que cada operador lógico combina as expressões:
 ![tabela](/imagens/tabela.png)
 
-Execute o exemplo a seguir que mostra como duas comparações são combinadas
++ Exemplo de estrutura condicional com condição composta: 
+    + selecione o botão **Run** para execução do programa;
+    + Modifique os valores das variáveis x e y para criar situações diferentes da apresentada;
+    + Modifique o operador lógico da condição composta para criar situações diferentes da apresentada;
+    
 ``` python runnable
 x = 3.5
 y = 1.2
