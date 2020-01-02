@@ -33,7 +33,7 @@ A expressão 4 < 1  possui valor falso.
 -------
 **Testando os conhecimentos....**
 
-?[Sabendo que x = 8, y = -3 e z = 4, quais expressões abaixo tem como resultado o valor Verdadeiro?](multiple)
+?[Sabendo que x = 8, y = -3 e z = 4, quais expressões abaixo tem como resultado o valor Verdadeiro(True)?](multiple)
 -[x] x > y	
 -[x] x / z == z / 2 
 -[ ] y >= 0
