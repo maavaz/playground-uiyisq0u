@@ -39,7 +39,9 @@ plan:
   - title: Saída Formatada
     statement: /pyt-project/python13.md  
   - title: Processamento Condicional
-    statement: /pyt-project/python14.md    
+    statement: /pyt-project/python14.md  
+  - title: Processamento Condicional (Composta)
+    statement: /pyt-project/python15.md  
 projects:
   pyt:
     root: /pyt-project
