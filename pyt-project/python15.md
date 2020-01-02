@@ -33,7 +33,8 @@ else:
    print ("Valor da diferença é", b - a);
 
 ```
-As expressões de comparação podem ser combinadas pelas operações lógicas and (e), or (ou não exclusivo) e not (inversão). As tabelas abaixo listam a forma com que cada operação lógica combina as expressões:
+#### Condições Compostas
+Quando uma estrutura condicional possui mais de uma condição, elas podem ser combinadas pelos operadores lógicas **and (e)**, **or (ou não exclusivo)** e **not (inversão)** para formar uma condição composta. A tabela abaixo lista a forma com que cada operador lógico combina as expressões:
 ![tabela](/imagens/tabela.png)
 
 Execute o exemplo a seguir que mostra como duas comparações são combinadas
@@ -41,9 +42,9 @@ Execute o exemplo a seguir que mostra como duas comparações são combinadas
 x = 3.5
 y = 1.2
 if y < x and x > 3:
-    print(“As duas condições são verdadeiras”)
+    print("As duas condições são verdadeiras")
 else:
-    print(“Pelo menos uma condição ou as duas condições são falsas”)
+    print("Pelo menos uma condição ou as duas condições são falsas")
 ```
 
 
