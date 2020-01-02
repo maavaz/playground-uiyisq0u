@@ -1,48 +1,32 @@
-# Exercícios Seleção
+# Exercitando (Condicional)
 
-Observe o trecho do programa C abaixo.
+Observe o trecho do programa abaixo.
 ``` 
- if (X >= Y){
-  W=0;
- }  
-else { 
-  W=1;
-}
+ if x >= y:
+  w = 0;
+ else  
+  w = 1;
 ```
-Considere três execuções do trecho de código acima, onde os valores armazenados por X e Y são apresentados abaixo:
-
-| X | Y |
-|---|---|
-| 1 | 2 |
-| 1 | 1 |
-| 2 | 3 |
-
-?[Qual das execuções acima (valores de X e Y), faz com que a variável W armazene o valor 0 (zero):]
--[ ] X = 2 e Y= 3.
--[ ] X = 1 e Y= 2.
--[x] X = 1 e Y= 1.
--[ ] Em nenhuma das três execuções a variável W conterá o valor 0.
+?[Que valores de X e Y devem ter para que a execução do trecho de código acima faz com que a variável W armazene o valor 0 (zero):]
+-[ ] x = 2 e y= 3.
+-[ ] x = 1 e y= 2.
+-[x] x = 1 e y= 1.
+-[ ] Em nenhuma das respostas acima a variável w conterá o valor 0.
 ----
 Dado o trecho de código abaixo:
 ```
-printf ("A");
-if (q1) {
- printf ("B");
-}
-else {
-  printf ("C");
-}
-printf ("D");
-if (q2) {
- printf("E");
-}
-else {
-  printf ("F");
-}
-printf ("G");
-printf ("H");
-
-}
+print ("A");
+if q1:
+ print ("B")
+else:
+ print ("C")
+print ("D");
+if q2:
+ print("E");
+else:
+ print ("F")
+print ("G")
+print ("H")
 ```
 ?[Que sequência será impressa pelo programa, caso as condições q1 e q2 sejam verdadeiras:]
 -[x] A B D E G H.
