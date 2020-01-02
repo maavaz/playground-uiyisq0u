@@ -7,12 +7,10 @@
 ```
  if condição:
     comando 1 para condição Verdadeira 
-    comando 2 para condição Verdadeira
     ....
     comando n para condição Verdadeira
  else:
     comando A para condição Falsa
-    comando B para condição Falsa
     ....
     comando Z para a condição Falsa
  comando fora da estrutura if
