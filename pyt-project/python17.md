@@ -7,6 +7,7 @@ Observe o trecho do programa abaixo.
  else  
   w = 1;
 ```
+
 ?[Que valores de X e Y devem ter para que a execução do trecho de código acima faz com que a variável W armazene o valor 0 (zero):]  (single)
 -[ ] x = 2 e y= 3.
 -[ ] x = 1 e y= 2.
@@ -28,6 +29,7 @@ else:
 print ("G")
 print ("H")
 ```
+
 ?[Que sequência será impressa pelo programa, caso as condições q1 e q2 sejam verdadeiras:] (single)
 -[x] A B D E G H.
 -[ ] A C D F G H.
