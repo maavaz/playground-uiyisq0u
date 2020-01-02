@@ -16,7 +16,7 @@
  comando fora da estrutura if
  ```
  + O **else:** simboliza a negação da condição associada ao ```if```, logo está ligado ao conjunto de comandos que será executado quando a condição for **Falsa**.
- + A Estrutura Condicional Composta representa uma bifurcação,i.e., ou executo os comandos associados a condição Verdadeira ou executo os comandos associados a condição Falsa, mas nunca os dois.
+ + A Estrutura Condicional Composta representa uma bifurcação,i.e., ou executo os comandos associados a condição Verdadeira **OU** executo os comandos associados a condição Falsa, mas nunca os dois.
 ![bifurcacao](/imagens/bifurcação.png)
 ---
 
@@ -33,3 +33,17 @@ else:
    print ("Valor da diferença é", b - a);
 
 ```
+As expressões de comparação podem ser combinadas pelas operações lógicas and (e), or (ou não exclusivo) e not (inversão). As tabelas abaixo listam a forma com que cada operação lógica combina as expressões:
+![tabela](/imagens/tabela.png)
+
+Execute o exemplo a seguir que mostra como duas comparações são combinadas
+``` python runnable
+x = 3.5
+y = 1.2
+if y < x and x > 3:
+    print(“As duas condições são verdadeiras”)
+else:
+    print(“Pelo menos uma condição ou as duas condições são falsas”)
+```
+
+
