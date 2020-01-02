@@ -54,7 +54,7 @@ if idade >= 21:
 ----
 As maçãs custam R$ 1,40 cada se forem compradas menos do que uma dúzia e, R$ 1,25 cada, se forem compradas pelo menos uma dúzia. Escreva um programa que leia o número de maçãs compradas, calcule e escreva o valor total da compra.  
 
-
+@[Programacao Python]({"stubs": ["./www/terminal2"],"command": "sh /project/target/www/terminal7.sh" })
 
 ::: Solução
 
@@ -77,6 +77,7 @@ A escola “APRENDER” faz o pagamento de seus professores por hora/aula mais 1
 + Professor Nível 1 R$56,00 por hora/aula 
 + Professor Nível 2 R$66,00 por hora/aula 
 Obs: Exiba o salário formatado com 2 casas decimais.
+ @[Programacao Python]({"stubs": ["./www/terminal2"],"command": "sh /project/target/www/terminal8.sh" })
  
 ::: Solução
 
@@ -103,6 +104,7 @@ Faça um programa que calcule o desconto de uma compra feita em uma loja. O prog
 + 3% de desconto se for maior que R$ 3.000,00 e menor ou igual a R$ 5.000,00;
 + 2% de desconto para compras acima de R$ 5.000,00.
 O programa deverá exibir o valor da compra, o valor do desconto e o total a pagar. Formatar as saídas para 2 casas decimais.
+@[Programacao Python]({"stubs": ["./www/terminal2"],"command": "sh /project/target/www/terminal9.sh" })
 
 ::: Solução
 ```python
