@@ -42,6 +42,8 @@ plan:
     statement: /pyt-project/python14.md  
   - title: Processamento Condicional (Composta)
     statement: /pyt-project/python15.md  
+ - title: Processamento Condicional (Múltipla)
+    statement: /pyt-project/python16.md     
 projects:
   pyt:
     root: /pyt-project
