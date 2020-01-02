@@ -43,7 +43,11 @@ A expressão 4 < 1  possui valor falso.
 -[ ] x + y >= x - y 
 
 ---
-``` runnable python
++ Exemplo de Programa com estrutura condicional simples: 
+    + selecione o botão **Run** para execução do programa;
+    + Modifique os valores das variáveis a e a para criar situações diferentes da apresentada;
+    
+``` python runnable
 a = 4;
 b = 6;
 soma = a + b;
