@@ -19,7 +19,7 @@
  ```
  + O **else:** simboliza a negação da condição associada ao ```if```, logo está ligado ao conjunto de comandos que será executado quando a condição for **Falsa**.
  + A Estrutura Condicional Composta representa uma bifurcação,i.e., ou executo os comandos associados a condição Verdadeira ou executo os comandos associados a condição Falsa, mas nunca os dois.
-![bifurcacao](/markdowns/bifurcação.png)
+![bifurcacao](/imagens/bifurcação.png)
 ---
 
 + Exemplo de Programa com estrutura condicional composta: 
