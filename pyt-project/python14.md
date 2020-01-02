@@ -41,3 +41,13 @@ A expressão 4 < 1  possui valor falso.
 -[ ] x / y - 1 == 0
 -[ ] y == 3
 -[ ] x + y >= x - y 
+
+---
+``` runnable python
+a = 4;
+b = 6;
+soma = a + b;
+
+if Soma > 0:
+ print("valor da soma é",soma)
+ 
