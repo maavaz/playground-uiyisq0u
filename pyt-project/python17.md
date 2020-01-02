@@ -73,34 +73,23 @@ print("o valor de sua compra é:", compra)
 ---
 ###### Exercício 3  
 ----
-A escola “APRENDER” faz o pagamento de seus professores por hora/aula mais 15% do salário referente ao Descanso Semanal Remunerado (DSR). Faça um programa C que leia o nível do professor (1 ou 2) e a quantidade de horas dadas no Mês, calcule e exiba o salário de um professor. Sabe-se que o valor da hora/aula segue a tabela abaixo: 
+A escola “APRENDER” faz o pagamento de seus professores por hora/aula mais 15% do salário referente ao Descanso Semanal Remunerado (DSR). Faça um programa que leia o nível do professor (1 ou 2) e a quantidade de horas de aula dadas no Mês, calcule e exiba o salário de um professor. Sabe-se que o valor da hora/aula segue a tabela abaixo: 
 + Professor Nível 1 R$56,00 por hora/aula 
 + Professor Nível 2 R$66,00 por hora/aula 
 
  
 ::: Solução
 
-``` C
-#include<stdio.h>
-int main(){
-int nivel;
-int horas;
-float salario;
-float dsr;
-printf("Digite a quantidade de horas trabalhadas :");
-scanf("%d", &horas);
-printf("Digite o nivel do professor(1 ou 2): ");
-scanf("%d", &nivel);
-if (nivel == 1){
-   salario= horas * 56;
-}
-else {
-   salario= horas * 66;
-}
+``` python
+horas= int(input("Digite a quantidade de horas trabalhadas :"))
+nivel = int(input("Digite o nivel do professor(1 ou 2): "))
+if nivel == 1:
+   salario= horas * 56
+else:
+   salario= horas * 66
 dsr = salario *  0.15;
 salario = salario + dsr;
-printf("o salario do professor é: %f", salario);
-}
+print("o salario do professor é:", salario)
 
 ```
 :::
