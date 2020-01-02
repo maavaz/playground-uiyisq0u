@@ -1,5 +1,5 @@
 # Processamento com Repetição
-Em algumas situações, é comum que um comando (ou conjunto deles) precise ser executada várias vezes seguidas.
+Em algumas situações, é comum que um comando (ou conjunto deles) precise ser executado várias vezes seguidas.
 + O processamento com repetição permite que um conjunto de comandos possa ser repetidos **n vezes**.
 + Há dois tipos de processamento com repetição: 
     + Processamento com um número pré-determinado de repetições - Representado pela estrutura **for** e, nesse caso, comandos pertencentes a estrutura serão repetidos um número fixo de vezes.
