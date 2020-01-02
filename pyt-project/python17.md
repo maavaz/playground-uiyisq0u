@@ -8,7 +8,7 @@ Observe o trecho do programa abaixo.
   w = 1;
 ```
 ---
-?[Que valores de X e Y devem ter para que a execução do trecho de código acima faz com que a variável W armazene o valor 0 (zero):]
+?[Que valores ass variáveis x e y devem ter para que a execução do trecho de código acima faz com que a variável W armazene o valor 0 (zero):]
 -[ ] x = 2 e y= 3.
 -[ ] x = 1 e y= 2.
 -[x] x = 1 e y= 1.
@@ -38,50 +38,34 @@ print ("H")
 
 ###### Exercício 1  
 ----
-Escreva um programa C que peça a idade de uma pessoa e, se a idade digitada for 21 ou mais anos, imprima a idade juntamente com a mensagem "Você já é maior de 21 anos".
+Escreva um programa que leia a idade de uma pessoa e, se a idade digitada for 21 ou mais anos, imprima a idade juntamente com a mensagem "Você já é maior de 21 anos".
 
  
 ::: Solução
 
-``` C
-#include<stdio.h>
-int main(){
-int idade;
-
-printf("Digite a sua Idade:");
-scanf("%d", &idade);
-
-if (idade >= 21){
- printf("Voce já e maior de 21 anos");
-}
-}
+``` python
+idade = int(input("Digite a sua Idade:"))
+if idade >= 21:
+ print("Voce já e maior de 21 anos")
 ```
 :::
 ---
 ###### Exercício 2  
 ----
-As maçãs custam R$ 0,30 cada se forem compradas menos do que uma dúzia e, R$0,25 cada, se forem compradas pelo menos uma dúzia. Escreva um programa que leia o número de maçãs compradas, calcule e escreva o valor total da compra.
+As maçãs custam R$ 1,40 cada se forem compradas menos do que uma dúzia e, R$ 1,25 cada, se forem compradas pelo menos uma dúzia. Escreva um programa que leia o número de maçãs compradas, calcule e escreva o valor total da compra.  
 
 
 
 ::: Solução
 
-``` C
-#include<stdio.h>
-int main(){
-int qtd;
-float compra;
-printf("Digite a quantidade de maçãs compradas :");
-scanf("%d", &qtd);
+``` python
 
-if (qtd >= 12){
-   compra= qtd * 0.25;
-}
-else {
-   compra= qtd * 0.3;
-}
-printf("o valor de sua compra é: %f", compra);
-}
+qtd = int(input("Digite a quantidade de maçãs compradas :"))
+if qtd >= 12:
+   compra= qtd * 1.25
+else:
+   compra= qtd * 1.4
+print("o valor de sua compra é:", compra)
 
 ```
 :::
