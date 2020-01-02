@@ -1,4 +1,4 @@
-# Porcessamento Condicional
+# Processamento Condicional
 
 O processamento condicional introduz um elemento importante na programação que é a habilidade do computador fazer coisas diferentes dependendo de determinadas condições. Nesse sentido, o processamento Condicional introduz a estrutura de decisão **if** que é uma declaração que instrui o computador a executar um bloco de comandos apenas se uma dada condição associada ao **if** é verdadeira. 
 A forma geral do comando **if** é: 
@@ -52,6 +52,6 @@ a = 4;
 b = 6;
 soma = a + b;
 
-if Soma > 0:
+if soma > 0:
  print("valor da soma é",soma)
  
