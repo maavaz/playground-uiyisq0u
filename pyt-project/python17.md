@@ -12,7 +12,7 @@ Observe o trecho do programa abaixo.
 -[ ] x = 1 e y= 2.
 -[x] x = 1 e y= 1.
 -[ ] Em nenhuma das respostas acima a variável w conterá o valor 0.
-----
+
 Dado o trecho de código abaixo:
 ```
 print ("A");
@@ -33,7 +33,7 @@ print ("H")
 -[ ] A C D F G H.
 -[ ] A B D F G H.
 -[ ] A C D E G H.
-----
+
 ###### Exercício 1  
 ----
 Escreva um programa C que peça a idade de uma pessoa e, se a idade digitada for 21 ou mais anos, imprima a idade juntamente com a mensagem "Você já é maior de 21 anos".
