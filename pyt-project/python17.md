@@ -39,7 +39,7 @@ print ("H")
 ###### Exercício 1  
 ----
 Escreva um programa que leia a idade de uma pessoa e, se a idade digitada for 21 ou mais anos, imprima a idade juntamente com a mensagem "Você já é maior de 21 anos".
-
+@[Programacao Python]({"stubs": ["./www/terminal2"],"command": "sh /project/target/www/terminal6.sh" })
  
 ::: Solução
 
