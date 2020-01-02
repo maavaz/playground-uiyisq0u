@@ -29,7 +29,7 @@ else:
 print ("G")
 print ("H")
 ```
-
+<p></p>
 ?[Que sequência será impressa pelo programa, caso as condições q1 e q2 sejam verdadeiras:] (single)
 -[x] A B D E G H.
 -[ ] A C D F G H.
