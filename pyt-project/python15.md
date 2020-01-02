@@ -34,7 +34,7 @@ else:
 
 ```
 #### Condições Compostas
-Quando uma estrutura condicional possui mais de uma condição, elas podem ser combinadas pelos operadores lógicas **and (e)**, **or (ou não exclusivo)** e **not (inversão)** para formar uma condição composta. A tabela abaixo lista a forma com que cada operador lógico combina as expressões:
+Quando uma estrutura condicional possui mais de uma condição elas podem ser combinadas pelos operadores lógicas **and (e)**, **or (ou não exclusivo)** e **not (inversão)** para formar uma condição composta. A tabela abaixo lista a forma com que cada operador lógico combina as expressões:
 ![tabela](/imagens/tabela.png)
 
 + Exemplo de estrutura condicional com condição composta: 
