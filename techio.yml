@@ -45,7 +45,9 @@ plan:
   - title: Processamento Condicional (Múltipla)
     statement: /pyt-project/python16.md
   - title: Exercitando (Condicional)
-    statement: /pyt-project/python17.md       
+    statement: /pyt-project/python17.md   
+  - title: Processamento com Repetição
+    statement: /pyt-project/python18.md   
 projects:
   pyt:
     root: /pyt-project
