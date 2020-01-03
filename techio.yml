@@ -48,6 +48,8 @@ plan:
     statement: /pyt-project/python17.md   
   - title: Processamento com Repetição
     statement: /pyt-project/python18.md   
+  - title: Processamento com Repetição (while)
+    statement: /pyt-project/python19.md     
 projects:
   pyt:
     root: /pyt-project
