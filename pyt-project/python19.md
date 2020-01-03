@@ -1,7 +1,8 @@
 # Processamento com Repetição
 
+---
 ### Repetição com sinalizador de parada
-
+---
 Um comando, ou grupo de comandos pode ser repetido enquanto uma determinada condição definida no cabeçalho for verdadeira. Uma vez que essa condição é falsa, as repetições param. 
 A estrutura que representa esse tipo de repetição é a **while**, que possui a seguinte forma geral:
 ```
