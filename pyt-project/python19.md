@@ -27,7 +27,7 @@ O comando **item += 1** significa **item = item + 1** (instrução de incremento
 ---
 Outro tipo de Exemplo:
 ---
-Faça um programa para calcula o valor da tarifa do pacote de serviços das contas dos clientes de um Banco. O programa deverá ler o número da conta e o saldo do cliente. Para contas com saldo de pelo menos 10.000,00 reais o valor do pacote de serviços é igual a 0,1%, do contrário é igual 0,3%. Para cada conta, calcule e exiba o valor da taxa de serviços e o novo saldo. O programa termina quando o número da conta é igual a -1
+Faça um programa para calcular o valor da tarifa do pacote de serviços das contas dos clientes de um Banco. O programa deverá ler o número da conta e o saldo do cliente. Para contas com saldo de pelo menos 10.000,00 reais o valor do pacote de serviços é igual a 0,1%, do contrário é igual 0,3%. Para cada conta, calcule e exiba o valor da taxa de serviços e o novo saldo. O programa termina quando o número da conta é igual a -1
 <p></p>
 
 <b>Comentários para a solução:</b>
@@ -55,11 +55,11 @@ while (conta != -1):
    if (saldo >= 10000):
      vtaxa = saldo * 0.001;
    else:
-     vtaxa = saldo * 0.002;
+     vtaxa = saldo * 0.003;
     
    nsaldo = saldo - vtaxa
-   print("saldo atual = {0:.2f}".format (nsaldo))
    print("valor Servicos = {0:.2f}".format(vtaxa)) 
+   print("saldo atual = {0:.2f}".format (nsaldo))
    conta = int(input("Digite o número da conta:"))
 ```
 :::
