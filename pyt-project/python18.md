@@ -35,7 +35,7 @@ Faça um programa que leia 2 notas de cada aluno de uma turma de 10 alunos, calc
 <b>Comentários para a solução:</b> 
 
 + O modo de pensar a solução é o mesmo do já ensinado: Entrada + Processamento + Saída.
-   + Entrada: nota1 e nota2
+   + Entrada: ler nota1 e nota2
    + Processamento: media = (nota1 + nota2)/2
    + saida: Exibir a média
 + O problema diz que a turma tem 10 alunos, se precisamos efetuar o mesmo processamento para cada aluno, a solução acima precisa estar dentro de uma estrutura de repetição **for** que efetuará a repetição dos comandos 10 vezes.
