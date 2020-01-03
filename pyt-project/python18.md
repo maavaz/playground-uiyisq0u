@@ -30,13 +30,13 @@ for item in range(10):
 Outro Exemplo:
 ---
 Faça um programa que leia 2 notas de cada aluno de uma turma de 10 alunos, calcular e exibir a média das notas de cada aluno. Ao final, calcular e exibir a média da turma.
----
+<p></p>
 **Comentários para a solução:**
 + O modo de pensar a solução é o mesmo do já ensinado: Entrada + Processamento + Saída.
    + Entrada: nota1 e nota2
    + Processamento: media = (nota1 + nota2)/2
    + saida: Exibir a média
-+ O problema diz que a turma tem 10 alunos, se precisamos efetuar o mesmo processamento para essa turma, colocaremos dentro de uma estrutura de repetição **for** que efetuará a repetição dos comandos 10 vezes.
++ O problema diz que a turma tem 10 alunos, se precisamos efetuar o mesmo processamento para cada aluno, a solução acima precisa estar dentro de uma estrutura de repetição **for** que efetuará a repetição dos comandos 10 vezes.
 + Como o problema irá calcular e exibir a média da turma, precisamos acumular as médias durante a repetição, logo precisamos de uma variável para acumular as médias, cujo comando será posto dentro do **for**: totmedia = totmedia + media.
 + Ao final, fora do **for** calcular e exibir a média final.
 + Tente escrever a sua solução.
