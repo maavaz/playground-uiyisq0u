@@ -48,6 +48,7 @@ Faça um programa para calcula o valor da tarifa do pacote de serviços das cont
 ```
 + Tente resolver o problema.
 ::: Solução
+``` python
 conta = int(input("Digite o número da conta:")) #esse comando deverá ser repetido no fim do while.
 while (conta != -1):
    saldo = float(input("Digite o saldo da conta: "))
@@ -60,6 +61,7 @@ while (conta != -1):
    print("saldo atual = {0:.2f}".format (nsaldo))
    print("valor Servicos = {0:.2f}".format(vtaxa)) 
    conta = int(input("Digite o número da conta:"))
+```
 :::   
  
 <b>Atenção:</b> Uma das coisas que chama a atenção em Python é o **else**. O seu uso “natural”, para definir um caminho alternativo para um **if**, não tem nada demais. O que é um pouco estranho é o fato de Python aceitar else em expressões de loop como **for e while**. O else não será explicado até o momento que for necessário em algum problema. Mas, é importante informar a você que é possível ter else em estrutura de repetição.
