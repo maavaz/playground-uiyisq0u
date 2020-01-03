@@ -47,20 +47,6 @@ Faça um programa para calcula o valor da tarifa do pacote de serviços das cont
      variável = input(´mensagem qualquer´)  # repetir o comando de Leitura da variável da condição de continuidade
 ```
 + Tente resolver o problema.
-::: Solução
-``` python
-conta = int(input("Digite o número da conta:")) #esse comando deverá ser repetido no fim do while.
-while (conta != -1):
-   saldo = float(input("Digite o saldo da conta: "))
-   if (saldo >= 10000):
-     vtaxa = saldo * 0.001;
-   else:
-     vtaxa = saldo * 0.002;
-    
-   nsaldo = saldo - vtaxa
-   print("saldo atual = {0:.2f}".format (nsaldo))
-   print("valor Servicos = {0:.2f}".format(vtaxa)) 
-   conta = int(input("Digite o número da conta:"))
-```
-::: 
+
+
 
