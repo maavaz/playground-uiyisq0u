@@ -39,8 +39,8 @@ Faça um programa que leia 2 notas de cada aluno de uma turma de 10 alunos, calc
    + Processamento: media = (nota1 + nota2)/2
    + saida: Exibir a média
 + O problema diz que a turma tem 10 alunos, se precisamos efetuar o mesmo processamento para cada aluno, a solução acima precisa estar dentro de uma estrutura de repetição **for** que efetuará a repetição dos comandos 10 vezes.
-+ Como o problema irá calcular e exibir a média da turma, precisamos acumular as médias durante a repetição, logo precisamos de uma variável para acumular as médias, cujo comando será posto dentro do **for**: totmedia = totmedia + media.
-+ Ao final, fora do **for** calcular e exibir a média final.
++ Como o problema irá calcular e exibir a média da turma, precisamos acumular as médias durante a repetição, logo precisaremos de uma variável para acumular as médias, cujo comando a seguir será inserido após o cálculo da média do aluno, dentro do **for**: totmedia = totmedia + media.
++ Ao final, fora do **for**, calcular e exibir a média final.
 + Tente escrever a sua solução.
 ::: Solução
 totmedia = 0 #toda variável acumuladora precisa ser zerada no início do programa
