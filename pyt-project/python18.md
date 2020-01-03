@@ -26,4 +26,28 @@ O exemplo a seguir exibe o laço **for** onde a variável **item** recebera um n
 for item in range(10):
     print(item)
 ```
+---
+Outro Exemplo:
+---
+Faça um programa que leia 2 notas de cada aluno de uma turma de 10 alunos, calcular e exibir a média das notas de cada aluno. Ao final, calcular e exibir a média da turma.
+**Comentários para a solução:**
++ O modo de pensar a solução é o mesmo do já ensinado: Entrada + Processamento + Saída.
+   + Entrada: nota1 e nota2
+   + Processamento: media = (nota1 + nota2)/2
+   + saida: Exibir a média
++ O problema diz que a turma tem 10 alunos, se precisamos efetuar o mesmo processamento para essa turma, colocaremos dentro de uma estrutura de repetição **for** que efetuará a repetição dos comandos 10 vezes.
++ Como o problema irá calcular e exibir a média da turma, precisamos acumular as médias durante a repetição, logo precisamos de uma variável para acumular as médias, cujo comando será posto dentro do **for**: totmedia = totmedia + media.
++ Ao final, fora do **for** calculae e exibir a média final.
++ Tente escrever a sua solução.
+::: Solução
+totmedia = 0 #toda variável acumuladora precisa ser zerada no início do programa
+for i in range(10): # Estrutura que repetirá 10 vezes
+   nota1 = float(input('Digite a primeira Nota:'))
+   nota2 = float(input('Digite a segunda Nota:'))
+   media = (nota1 + nota2)/2
+   print("A média do aluno é:{0:.2f}".format(media))
+   totmedia = totmedia + media
+mediager = totmedia/10
+print("A média da turma é:{0:.2f}".format(mediager))
+:::
 
