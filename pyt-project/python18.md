@@ -3,7 +3,7 @@ Em algumas situações, é comum que um comando (ou conjunto deles) precise ser 
 + O processamento com repetição permite que um conjunto de comandos possa ser repetidos **n vezes**.
 + Há dois tipos de processamento com repetição: 
     + Processamento com um número pré-determinado de repetições - Representado pela estrutura **for** e, nesse caso, comandos pertencentes a estrutura serão repetidos um número fixo de vezes.
-    + Processamento com sinalizador de parada - - Representado pela estrutura **while* e, nesse caso, comandos pertencente a estrutura serão repetidos enquanto uma condição associada for Verdadeira (True). 
+    + Processamento com sinalizador de parada - - Representado pela estrutura **while** e, nesse caso, comandos pertencente a estrutura serão repetidos enquanto uma condição associada for Verdadeira (True). 
 + Estas estruturas de repetição são também conhecidas como laços (do inglês loops).
 
 ---
