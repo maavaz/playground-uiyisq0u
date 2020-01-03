@@ -43,6 +43,7 @@ Faça um programa que leia 2 notas de cada aluno de uma turma de 10 alunos, calc
 + Ao final, fora do **for**, calcular e exibir a média final.
 + Tente escrever a sua solução.
 ::: Solução
+``` python
 totmedia = 0    # toda variável acumuladora precisa ser zerada no início do programa
 for i in range(10):   #Estrutura que repetirá 10 vezes
    nota1 = float(input('Digite a primeira Nota:'))
@@ -52,6 +53,7 @@ for i in range(10):   #Estrutura que repetirá 10 vezes
    totmedia = totmedia + media
 mediager = totmedia/10
 print("A média da turma é:{0:.2f}".format(mediager))
+```
 :::
 
 **OBS:** Outras variações da Estrutura **for** serão apresentadas no decorrer desse e do tutorial Programação Python.
