@@ -8,8 +8,7 @@ A estrutura que representa esse tipo de repetição é a **while**, que possui a
 ```
 while condição de continuidade:
  comando 1
- comando 2
- etc.
+ ...
  Comando n
 próximo comando depois do bloco do while
 ```
