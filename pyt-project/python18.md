@@ -31,7 +31,9 @@ Outro Exemplo:
 ---
 Faça um programa que leia 2 notas de cada aluno de uma turma de 10 alunos, calcular e exibir a média das notas de cada aluno. Ao final, calcular e exibir a média da turma.
 <p></p>
+---
 **Comentários para a solução:**
+---
 + O modo de pensar a solução é o mesmo do já ensinado: Entrada + Processamento + Saída.
    + Entrada: nota1 e nota2
    + Processamento: media = (nota1 + nota2)/2
