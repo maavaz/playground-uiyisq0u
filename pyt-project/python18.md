@@ -44,7 +44,7 @@ Faça um programa que leia 2 notas de cada aluno de uma turma de 10 alunos, calc
 + Tente escrever a sua solução.
 ::: Solução
 totmedia = 0     toda variável acumuladora precisa ser zerada no início do programa
-for i in range(10): # Estrutura que repetirá 10 vezes
+for i in range(10):   Estrutura que repetirá 10 vezes
    nota1 = float(input('Digite a primeira Nota:'))
    nota2 = float(input('Digite a segunda Nota:'))
    media = (nota1 + nota2)/2
