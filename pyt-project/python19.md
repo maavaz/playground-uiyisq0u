@@ -16,11 +16,14 @@ A condição de continuidade definida no cabeçalho obrigatoriamente deve ser mo
 A condição de continuidade é testada toda vez que encontra o **while**, isto significa que se for falsa desde a primeira vez o bloco de comandos nunca será executado. 
 O exemplo a seguir é o mesmo apresentado no caso da estrutura for, isto é, um programa que imprime os números de 0 até 9.
 ``` python runnable
-i = 0
-while i < 10:
- print(i)
- i += 1
+item = 0
+while item < 10:
+ print(item)
+ item += 1
 ``` 
+Notem que na estrutura **for** a inicialização e o incremento da variável **item** é eftuada automaticamente pela estrutura. Na estrutura **while** isso tem que ser feito pelo programador.
+O comando **item += 1** significa **item = item + 1** (instrução de incremento de 1 unidade).
+
 
 ---
 <b>Atenção:</b> Uma das coisas que chama a atenção em Python é o **else**. O seu uso “natural”, para definir um caminho alternativo para um **if**, não tem nada demais. O que é um pouco estranho é o fato de Python aceitar else em expressões de loop como **for e while**. O else não será explicado até o momento que for necessário em algum problema. Mas, é importante informar a você que é possível ter else em estrutura de repetição.
