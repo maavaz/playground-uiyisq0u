@@ -34,7 +34,7 @@ Faça um programa que leia 2 notas de cada aluno de uma turma de 10 alunos, calc
 
 <b>Comentários para a solução:</b> 
 
-+ O modo de pensar a solução é o mesmo do já ensinado: Entrada + Processamento + Saída.
++ O modo de pensar a solução segue o padrão já ensinado: Entrada + Processamento + Saída.
    + Entrada: ler nota1 e nota2
    + Processamento: media = (nota1 + nota2)/2
    + saida: Exibir a média
