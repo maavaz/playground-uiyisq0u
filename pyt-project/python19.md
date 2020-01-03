@@ -31,14 +31,14 @@ Faça um programa para calcula o valor da tarifa do pacote de serviços das cont
 <p></p>
 
 <b>Comentários para a solução:</b>
-O modo de pensar a solução segue o padrão já ensinado: Entrada + Processamento + Saída.
-Entrada: ler numero da conta e saldo
-Processamento: verificar o saldo do cliente para selecionar o percentual; calcular o valor do serviço baseado no percentual selecionado
-saida: Exibir o valor da taxa e o novo saldo (descontado do valor da taxa).
-Diferentemente do problema anterior, nesse caso não sabemos dde antemão quantas vezes a estrutura while irá executar, pois o processamento só irá parar quando for lido o valor -1 para o número da conta.
-Logo, quem controla a quantidade de laços é o usuário. Além disso, como dito anteriormente, a estrutura testa a condição de continuidade (nesse caso, número da conta) toda vez que o processamento encontra o **while**.
-Portanto, em todos os casos de processamento semelhante a esse, obrigatoriamento, o programador deverá colocar um comando de leitura (somente aquele com a variável da condição de contitnuidade) antes do while e repeti-lo no final da estrutura.
-Tente resolver o problema.
++ O modo de pensar a solução segue o padrão já ensinado: Entrada + Processamento + Saída.
++ Entrada: ler numero da conta e saldo
++ Processamento: verificar o saldo do cliente para selecionar o percentual; calcular o valor do serviço baseado no percentual selecionado
++ saida: Exibir o valor da taxa e o novo saldo (descontado do valor da taxa).
++ Diferentemente do problema anterior, nesse caso não sabemos dde antemão quantas vezes a estrutura while irá executar, pois o processamento só irá parar quando for lido o valor -1 para o número da conta.
++ Logo, quem controla a quantidade de laços é o usuário. Além disso, como dito anteriormente, a estrutura testa a condição de continuidade (nesse caso, número da conta) toda vez que o processamento encontra o **while**.
++ Portanto, em todos os casos de processamento semelhante a esse, obrigatoriamento, o programador deverá colocar um comando de leitura (somente aquele com a variável da condição de contitnuidade) antes do while e repeti-lo no final da estrutura.
++ Tente resolver o problema.
 ::: Solução
 conta = int(input("Digite o número da conta:")) #esse comando deverá ser repetido no fim do while.
 while (conta != -1):
