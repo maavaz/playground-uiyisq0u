@@ -21,7 +21,7 @@ while item < 10:
  print(item)
  item += 1
 ``` 
-Notem que na estrutura **for** a inicialização e o incremento da variável **item** é eftuada automaticamente pela estrutura. Na estrutura **while** isso tem que ser feito pelo programador.
+Notem que, na estrutura **for**, a inicialização e o incremento da variável **item** são efetuadas automaticamente pela estrutura. Na estrutura **while** isso tem que ser feito pelo programador. Por isso, nesse tipo de problema (repetição com número de repetições conhecidas são melhor implementadas com a estrutura **for**).
 O comando **item += 1** significa **item = item + 1** (instrução de incremento de 1 unidade).
 
 
