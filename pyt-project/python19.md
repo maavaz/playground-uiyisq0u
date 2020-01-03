@@ -48,7 +48,7 @@ Faça um programa para calcula o valor da tarifa do pacote de serviços das cont
 ```
 + Tente resolver o problema.
 ::: Solução
-``` python
+``` 
 conta = int(input("Digite o número da conta:")) #esse comando deverá ser repetido no fim do while.
 while (conta != -1):
    saldo = float(input("Digite o saldo da conta: "))
