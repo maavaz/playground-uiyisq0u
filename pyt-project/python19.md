@@ -14,3 +14,6 @@ próximo comando depois do bloco do while
 ```
 A condição de continuidade definida no cabeçalho obrigatoriamente deve ser modificada a cada volta no laço (loop). Se ela for verdadeira todo o bloco de comandos pertencente a estrutura (recuado) será executado. Esse processo se repete até que a condição de continuidade se torne falsa. Assim o próximo comando que não está recuado é executado e a execução do restante do programa continua.
 A condição de continuidade é testada toda vez que encontra o **while**, isto significa que se for falsa desde a primeira vez o bloco de comandos nunca será executado. 
+
+---
+<b>Atenção:</b> Uma das coisas que chama a atenção em Python é o **else**. O seu uso “natural”, para definir um caminho alternativo para um **if**, não tem nada demais. O que é um pouco estranho é o fato de Python aceitar else em expressões de loop como **for e while**. O else não será explicado até o momento que for necessário em algum problema. Mas, é importante informar a você que é possível ter else em estrutura de repetição.
