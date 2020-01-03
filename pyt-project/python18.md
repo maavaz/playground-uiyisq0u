@@ -54,3 +54,4 @@ mediager = totmedia/10
 print("A média da turma é:{0:.2f}".format(mediager))
 :::
 
+**OBS:** Outras variações da Estrutura **for** serão apresentadas no decorrer desse e do tutorial Programação Python.
