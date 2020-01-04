@@ -27,6 +27,21 @@ for i in range(5, 10):        |   i = 4
 -[ ] O trecho A exibirá os números de 5 até 9 e o trecho B exibirá os números de 5 até 9.
 -[ ] O trecho A exibirá os números de 5 até 9 e o trecho B exibirá os números de 4 até 9.
 
+Considere o código abaixo, digitado em Python.
+```
+a = 0
+b = 1
+while b < 10:
+    a = b
+    b = a + b
+```    
+?[No final da execução do código, o último valor armazenado nas variáveis a e b serão, respectivamente,}
+-[ ] 4 e 16.
+-[ ] 8 e 8.
+-[ ] 8 e 16.
+-[x] 4 e 8.
+
+
 ###### Exercício 1  
 ----
 Escreva um programa que leia a idade de uma pessoa e, se a idade digitada for 21 ou mais anos, imprima a idade juntamente com a mensagem "Você já é maior de 21 anos".
