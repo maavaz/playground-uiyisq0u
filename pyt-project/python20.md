@@ -61,7 +61,7 @@ while num <= 200:
 ---
 ###### Exercício 2  
 ----
-As maçãs custam R$ 1,40 cada se forem compradas menos do que uma dúzia e, R$ 1,25 cada, se forem compradas pelo menos uma dúzia. Escreva um programa que leia o número de maçãs compradas, calcule e escreva o valor total da compra.  
+Uma Empresa oferece para os 10 primeiros clientes um determinado desconto de acordo com o valor da compra efetuada. O desconto é de 20% se o valor da compra for maior ou igual a 1.500,00 Reais, e 15% se for menor. Para cada cliente o programa deverá ler o valor da compra e o nome do cliente. Fazer um programa que escreva o nome do cliente, valor da compra e o desconto dado. Ao final, exibir total de desconto dado aos 10 clientes. 
 
 @[Programacao Python]({"stubs": ["./www/terminal2"],"command": "sh /project/target/www/terminal7.sh" })
 
