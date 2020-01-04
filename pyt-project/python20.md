@@ -32,8 +32,8 @@ Considere o código abaixo, digitado em Python.
 a = 0
 b = 1
 while b < 10:
-    a = b
-    b = a + b
+  a = b
+  b = a + b
 ```    
 ?[No final da execução do código, o último valor armazenado nas variáveis a e b serão, respectivamente,]
 -[ ] 4 e 16.
@@ -68,14 +68,20 @@ Uma Empresa oferece para os 10 primeiros clientes um determinado desconto de aco
 ::: Solução
 
 ``` python
-
-qtd = int(input("Digite a quantidade de maçãs compradas :"))
-if qtd >= 12:
-   compra= qtd * 1.25
-else:
-   compra= qtd * 1.4
-print("o valor de sua compra é:", compra)
-
+totdesconto = 0.0
+for i in range(10):
+    nome = input("Digite seu nome:")
+    compra = float(input("Digite o valor da compra:"))
+    if compra >= 1500:
+        desconto = compra * 0.2
+    else:
+        desconto = compra * 0.15
+    print("Nome    :", nome)
+    print("Compra  : R${0:.2f}".format(compra))    
+    print("Desconto: R${0:.2f}".format(desconto))
+    print("Pagar   : R${0:.2f}".format(compra - desconto))
+    totdesconto = totdesconto + desconto #forma reduzida: totdesconto+= desconto
+print("total descontos: R${0:.2f}".format(totdesconto))   
 ```
 :::
 
