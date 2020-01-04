@@ -3,9 +3,9 @@
 Observe o trecho do programa abaixo.
 ``` 
  if x >= y:
-  w = 0;
+  w = 0
  else  
-  w = 1;
+  w = 1
 ```
 ---
 ?[Que valores as variáveis x e y devem ter para que a execução do trecho de código acima faz com que a variável W armazene o valor 0 (zero):]
