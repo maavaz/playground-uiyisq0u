@@ -44,15 +44,17 @@ while b < 10:
 
 ###### Exercício 1  
 ----
-Escreva um programa que leia a idade de uma pessoa e, se a idade digitada for 21 ou mais anos, imprima a idade juntamente com a mensagem "Você já é maior de 21 anos".
+Programa que imprime os números pares de 100 até 200, incluindo-os.
 @[Programacao Python]({"stubs": ["./www/terminal2"],"command": " /project/target/www/terminal6.sh" })
  
 ::: Solução
 
 ``` python
-idade = int(input("Digite a sua Idade:"))
-if idade >= 21:
- print("Voce já e maior de 21 anos")
+num = 100
+while num <= 200:
+   if num % 2 == 0:  # verifica se o número é par,i.e., resto da divisão (%) do número por dois é igual a zero 
+      print(num)
+   num = num + 1  # gera o próximo número
 ```
 :::
 ---
