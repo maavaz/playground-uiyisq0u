@@ -61,9 +61,9 @@ while num <= 200:
 ---
 ###### Exercício 2  
 ----
-Uma Empresa oferece para os 10 primeiros clientes um determinado desconto de acordo com o valor da compra efetuada. O desconto é de 20% se o valor da compra for maior ou igual a 1.500,00 Reais, e 15% se for menor. Para cada cliente o programa deverá ler o valor da compra e o nome do cliente. Fazer um programa que escreva o nome do cliente, valor da compra e o desconto dado. Ao final, exibir total de desconto dado aos 10 clientes. 
+Uma Empresa oferece para os 10 primeiros clientes um determinado desconto de acordo com o valor da compra efetuada. O desconto é de 20% se o valor da compra for maior ou igual a 1.500,00 Reais, e 15% se for menor. Fazer um programa que leia de cada cliente o valor da compra e o nome do cliente, calcule o desconto e exiba o nome do cliente, valor da compra, o desconto e o valor a ser pago. Ao final, exibir total de descontos dado aos 10 clientes. 
 
-@[Programacao Python]({"stubs": ["./www/terminal2"],"command": "sh /project/target/www/terminal7.sh" })
+@[Programacao Python]({"stubs": ["./www/terminal2"],"command": "sh /project/target/www/terminal11.sh" })
 
 ::: Solução
 
