@@ -18,8 +18,8 @@ Dado os trechos de códigos abaixo:
      trecho A                       trecho B
 for i in range(5, 10):        |   i = 4
    print(i)                   |   while i < 10:
-                                    i +=1 
-                                    print(i)                                             
+                              |     i +=1 
+                              |     print(i)                                             
 ```
 ?[O que será exibido na execução dos trechos acima:]
 -[x] O trecho A exibirá os números de 5 até 9 e o trecho B exibirá os números de 5 até 10.
