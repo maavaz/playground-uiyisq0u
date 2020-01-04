@@ -89,13 +89,11 @@ print("total descontos: R${0:.2f}".format(totdesconto))
 ###### Exercício 3  
 ----
 Faça um programa que leia a idade de várias pessoas de uma cidade, calcule e imprima média das idades e a quantidade de pessoas por faixa etária. O programa termina quando a idade digitada for igual -1. A tabela abaixo exibe as faixas etárias consideradas.
-Faixa de idade
-Menor 12 anos 
-De 12 até 18
-Acima de 18 anos
-| Faixa de idade  |   |   |   |   |
-|---|---|---|---|---|
-
+|Faixa de idade  |
+|Menor 12 anos   |
+|De 12 até 18    |
+|Acima de 18 anos|
+ 
  @[Programacao Python]({"stubs": ["./www/terminal2"],"command": "sh /project/target/www/terminal8.sh" })
  
 ::: Solução
