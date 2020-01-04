@@ -49,7 +49,9 @@ plan:
   - title: Processamento com Repetição
     statement: /pyt-project/python18.md   
   - title: Processamento com Repetição (while)
-    statement: /pyt-project/python19.md     
+    statement: /pyt-project/python19.md
+  - title: Exercitando (Repetição)
+    statement: /pyt-project/python20.md        
 projects:
   pyt:
     root: /pyt-project
