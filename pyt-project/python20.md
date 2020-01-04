@@ -35,7 +35,7 @@ while b < 10:
     a = b
     b = a + b
 ```    
-?[No final da execução do código, o último valor armazenado nas variáveis a e b serão, respectivamente,}
+?[No final da execução do código, o último valor armazenado nas variáveis a e b serão, respectivamente,]
 -[ ] 4 e 16.
 -[ ] 8 e 8.
 -[ ] 8 e 16.
