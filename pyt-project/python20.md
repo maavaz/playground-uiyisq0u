@@ -44,8 +44,9 @@ while b < 10:
 
 ###### Exercício 1  
 ----
-Programa que imprime os números pares de 100 até 200, incluindo-os.
-@[Programacao Python]({"stubs": ["./www/terminal2"],"command": " /project/target/www/terminal10.sh" })
+Faça um programa que imprima os números pares de 100 até 200, incluindo-os.
+
+@[Programacao Python]({"stubs": ["./www/terminal2"],"command": " sh /project/target/www/terminal10.sh" })
  
 ::: Solução
 
