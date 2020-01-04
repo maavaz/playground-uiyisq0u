@@ -8,7 +8,7 @@ Observe o trecho do programa abaixo.
   w = 1;
 ```
 ---
-?[Que valores ass variáveis x e y devem ter para que a execução do trecho de código acima faz com que a variável W armazene o valor 0 (zero):]
+?[Que valores as variáveis x e y devem ter para que a execução do trecho de código acima faz com que a variável W armazene o valor 0 (zero):]
 -[ ] x = 2 e y= 3.
 -[ ] x = 1 e y= 2.
 -[x] x = 1 e y= 1.
