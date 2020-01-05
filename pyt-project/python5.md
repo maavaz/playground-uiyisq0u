@@ -6,6 +6,7 @@ Variáveis podem ser definidas como locais de memória que servem para armazenar
 ```
 Muitas vezes é necessário guardar um dado (p.ex. um número) digitado pelo usuário para ser usado em um cálculo subsequente, gravá-lo em um arquivo ou até enviá-lo pela internet para outro local. Esse
 é o objetivo da variável. O nome "Variável" é dado porque a informação guardada pode ser alterada, isto é, pode variar.
+
 Toda variável tem:
 
 + <b>Um nome</b> - que é como ela será chamada ao guardar e recuperar a informação da memória;
