@@ -9,8 +9,8 @@ Muitas vezes é necessário guardar um dado (p.ex. um número) digitado pelo usu
 Toda variável tem:
 
 + <b>Um nome</b> - que é como ela será chamada ao guardar e recuperar a informação da memória;
-+ Um tipo - esse tipo (inteiro, real etc.) é definido quando variável é criada, baseando-se no conteúdo que foi a ela atribuído; e
-+ Uma abrangência (ou escopo) - uma variável só pode ser usada (para armazenar e resgatar dados) no módulo do programa que foi criada.
++ <b>Um tipo</b> - esse tipo (inteiro, real etc.) é definido quando variável é criada, baseando-se no conteúdo que foi a ela atribuído; e
++ <b>Uma abrangência (ou escopo)</b> - uma variável só pode ser usada (para armazenar e resgatar dados) no módulo do programa que foi criada.
 
 
 ## Criação da Variável
