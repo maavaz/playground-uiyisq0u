@@ -16,7 +16,7 @@ Sintaxe:
 Exemplo:
             <p>**nome = input('Digite o seu Nome')**</p>
                                                
- O comando **input** irá mover um valor do tipo String para variável, que será digitado pelo usuário. Esse comando, indepentende do valor digitado, moverá um valor do tipo String, mas caso o usuário queira que um valor númerico seja movido para a variável, deverá ser explicitado no comando, conforme exemplos, a seguir:
+ O comando **input** move valores do tipo String para as variáveis associadas ao comando.Mas, caso o usuário queira que um valor númerico seja movido para a variável, deverá ser explicitado no comando, conforme exemplos, a seguir:
 + Para solicitar um número inteiro:
                   <p>**nome da variável = int(input('Texto a ser mostrado '))**</p>
 Note a composição da **função input** com a **função int**. Isso garante que o resultado final armazenado na variável seja um número inteiro descartando qualquer casa decimal que porventura seja digitada.
