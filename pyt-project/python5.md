@@ -27,8 +27,8 @@ O nome de uma variável é dado pelo programador e deve seguir as seguintes regr
 ## Comando de Atribuição
 O comando de atribuição (=) é um comando que possibilita ao programador mover valores para dentro das variáveis. Uma variável só pode ser usada depois de criada através de um comando de
 atribuição. 
-```
-    Sintaxe:
+    Forma Geral:
+```    
               Variavel = valor
               
    Após a execução do comando a variável estará armazenando o valor movido.
