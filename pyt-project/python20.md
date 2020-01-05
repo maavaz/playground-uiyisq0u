@@ -126,7 +126,7 @@ print('Quantidade de adultos pesquisados(>18 anos):',contadul)
 ----
 Desafio
 ----
-Faça um programa que leia o valor da dívida de várias pessoas. Para cada pessoa, o programa deve calcular e exibir: valor da dívida, valor dos juros, quantidade de parcelas e valor da parcela (juros simples), como mostra o exemplo abaixo. O programa termina quando o valor da dívida for igual -1.
+Faça um programa que leia de várias pessoas, o valor de sua dívida e a quantidade de parcelas para saldá-la. Para cada pessoa, o programa deve calcular e exibir: valor da dívida, valor dos juros, quantidade de parcelas e valor da parcela (juros simples), como mostra o exemplo abaixo. O programa termina quando o valor da dívida for igual -1.
 
 +	Os juros e a quantidade de parcelas seguem a tabela abaixo:
 ```
