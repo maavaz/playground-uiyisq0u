@@ -95,15 +95,30 @@ Faça um programa que leia a idade de várias pessoas de uma cidade, calcule e i
 ::: Solução
 
 ``` python
-horas= int(input("Digite a quantidade de horas trabalhadas :"))
-nivel = int(input("Digite o nivel do professor(1 ou 2): "))
-if nivel == 1:
-   salario= horas * 56.00
-else:
-   salario= horas * 66.00
-dsr = salario *  0.15;
-salario = salario + dsr;
-print("o salario do professor é:{0:.2f}".format(salario))
+continf = 0       #contador da faixa de menor que 12 anos
+somainf = 0       # acumulador das idades da faixa menor que 12 anos
+contadol = 0      #contador da faixa de 12 - 18 anos
+somadol = 0       # acumulador das idades da faixa de 12-18 anos
+contadul = 0      #contador da faixa acima de 18 anos
+somadul = 0       # acumulador das idades da faixa acima de 18 anos
+idade = int(input('Digite sua idade:'))
+while idade != -1:
+    if idade < 12:
+        somainf += idade
+        continf += 1
+    elif idade <= 18:
+        somadol += idade
+        contadol += 1
+    else:
+        somadul += idade
+        contadul += 1
+    idade = int(input('Digite sua idade:')) #Leitura dentro do while
+print('Média das idade das crianças (<12 anos):{0:.2f}'.format(somainf/continf))
+print('Quantidade de Crianças pesquisadas(<12 anos):',continf)    
+print('Média das idade do adolescentes (12-18 anos):{0:.2f}'.format(somadol/contadol))
+print('Quantidade de adolescentes pesquisados(12-18 anos):',contadol) 
+print('Média das idade dos adultos (>18 anos):{0:.2f}'.format(somadul/contadul))
+print('Quantidade de adultos pesquisados(>18 anos):',contadul) 
 
 ```
 :::
