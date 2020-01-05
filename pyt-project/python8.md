@@ -1,10 +1,12 @@
 ## Comando de Saída em Python
 
-Esse comando (função) permite exibir na tela do usuário mensagem e/ou conteúdo de variáveis do tipo String. 
+Esse comando (função) permite exibir na tela do usuário mensagens, expressões e/ou valores armazenados em variáveis do programa. 
+
 <p>Sintaxe:</p>
                 <p><b>print(mensagem)</b></p>
 
 Uma das variações da sintaxe da função é a que permite que várias strings sejam escritas. De forma mais geral a função **print** é
+
                 <p><b>print(string 1, string 2, …, string n )</b></p>
 Assim cada string aparecerá separada por um espaço em branco, como no exemplo a seguir:
 <p><b>
