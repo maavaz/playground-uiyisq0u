@@ -2,7 +2,7 @@
 
 Esse comando (função) permite exibir na tela do usuário mensagens, expressões e/ou valores armazenados em variáveis do programa. 
 
-Sintaxe:
+Forma Geral:
 
 ``` 
                    print(mensagem)
