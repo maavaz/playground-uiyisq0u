@@ -8,15 +8,14 @@ o **comando de entrada** permite que o usuário envie dados do mundo exterior (p
 Esse comando permite receber o valor digitado no teclado pelo usuário e atribuir esse valor a variável associadas ao comando.
             Comando (função) de entrada do python: **input** 
 
-Este comando interrompe a execução do programa e espera que o usuário digite alguma coisa e depois pressione a tecla "enter".
+Este comando interrompe a execução do programa para esperar que o usuário digite o valor solicitado no teclado e, ao final da digitação, pressione a tecla "enter". Após isso, o valor digitado será movido para  variável associada ao **input**.
 
 Sintaxe:       
                 **variável = input('Mensagem para o usuário')**
                 
 Exemplo:
             <p>**nome = input('Digite o seu Nome')**</p>
-            
-**Obs:** O input irá esperar a digitação do valor e, após apertar a tecla "enter", o valor será movido para a variavel nome.                                                 
+                                               
  O comando **input** irá mover um valor do tipo String para variável, independente do que foi digitado, mas caso o usuário queira um valor númerico deverá ser explicitado no comando, conforme exemplos, a seguir:
 + Para solicitar um número inteiro:
                   <p>**nome da variável = int(input('Texto a ser mostrado '))**</p>
