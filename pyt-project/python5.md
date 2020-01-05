@@ -17,7 +17,7 @@ Toda variável tem:
 ## Criação da Variável
 Uma variável é criada pelo programa python no momento que precisamos armazenar um valor no seu interior. A partir daí, essa variável pode ser usada ao longo do programa.
 O nome de uma variável é dado pelo programador e deve seguir as seguintes regras
-+ Formado por uma sequência qualquer de caracteres (letras maiusculas/minúsculas ou números);
++ Formado por uma sequência de caracteres (letras maiusculas/minúsculas ou números);
 + Tem que começar por uma letra ou o caractere sublinhado ( _ );
 + Não pode ter letras acentuadas, nem espaço em branco;
 + Maiúsculas e minúsculas são letras diferentes;
