@@ -1,9 +1,11 @@
 # Erros de Sintaxe
 Caso o interpretador do Python não compreenda um determinado comando escrito pelo usuário é gerado um **erro de sintaxe**.
 A forma geral de uma mensagem de erro é:
+
               Traceback (most recent call last):
               File "nome do arquivo", número da linha, in nome do módulo
               Nome do erro: detalhes do erro.
+
 A última linha da mensagem fornece o nome e os detalhes do erro. A seguir são apresentados dois exemplos de erros: 
 No primeiro digita-se o comando print de forma errada (pront), como ele não existe gera-se um NameError e aparece a mensagem “NameError: name 'pront' is not defined”.
 
