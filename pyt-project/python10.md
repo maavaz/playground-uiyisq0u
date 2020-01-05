@@ -1,6 +1,6 @@
 # Processamento Sequencial
 
-Os comandos/instruções em um programa são executados um após o outro na sequência escrita (de cima para baixo) do início ao fim. O programa exemplo (somar 2 números) apresentado na seção anterior é uma amostra do processamento sequencial.
+Os comandos/instruções em um programa são executados um após o outro na sequência escrita (de cima para baixo) do início ao fim. O programa exemplo (somar 2 números), apresentado na seção anterior, é uma amostra do processamento sequencial.
 
 ## Exercícios Processamento Sequencial
 + A melhor maneira de aprender a programar é fazendo exercícios. 
