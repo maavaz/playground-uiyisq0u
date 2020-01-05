@@ -19,9 +19,9 @@ Uma variável é criada pelo programa python no momento que precisamos armazenar
 O nome de uma variável é dado pelo programador e deve seguir as seguintes regras
 + Formado por uma sequência de caracteres (letras maiusculas/minúsculas ou números);
 + Tem que começar por uma letra ou o caractere sublinhado ( _ );
-+ Não pode ter letras acentuadas, nem espaço em branco;
++ Não pode ter letras acentuadas, nem espaços em branco;
 + Maiúsculas e minúsculas são letras diferentes;
-+ Não pode ser uma palavra reservada da linguagem; e
++ Não pode ser uma palavra reservada da linguagem (p.ex. nome de comandos); e
 + Deve ser um nome único, não deve conflitar com nomes de variáveis e funções predefinidas.
 
 ## Comando de Atribuição
