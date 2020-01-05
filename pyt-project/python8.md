@@ -3,9 +3,9 @@
 Esse comando (função) permite exibir na tela do usuário mensagens, expressões e/ou valores armazenados em variáveis do programa. 
 
 <p>Sintaxe:</p>
-    ```` 
+``` 
                               print(mensagem)
-    ```                          
+```                          
 
 Uma das variações da sintaxe da função é a que permite que várias strings sejam escritas. De forma mais geral a função **print** é
 ```
