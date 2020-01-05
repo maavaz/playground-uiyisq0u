@@ -19,8 +19,8 @@ Exemplo:
  O comando **input** irá mover um valor do tipo String para variável, independente do que foi digitado, mas caso o usuário queira um valor númerico deverá ser explicitado no comando, conforme exemplos, a seguir:
 + Para solicitar um número inteiro:
                   <p>**nome da variável = int(input('Texto a ser mostrado '))**</p>
-Note a composição da função input com a função int. Isso garante que o resultado final armazenado na variável seja um número inteiro descartando qualquer casa decimal que porventura seja digitada.
+Note a composição da **função input** com a **função int**. Isso garante que o resultado final armazenado na variável seja um número inteiro descartando qualquer casa decimal que porventura seja digitada.
 
 + Para solicitar um número real:
                  <p>**nome da variável = float(input('Texto a ser mostrado '))**</p>
-Note a composição da função input com a função float. Isso garante que o resultado final que será armazenado na variável seja um número real, acrescentando zeros nas casas decimais caso o usuário não tenha digitado nenhuma casa decimal.                 
+Note a composição da **função input** com a **função float**. Isso garante que o resultado final que será armazenado na variável seja um número real, acrescentando zeros nas casas decimais caso o usuário não tenha digitado nenhuma casa decimal.                 
