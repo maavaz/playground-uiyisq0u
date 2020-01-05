@@ -2,7 +2,8 @@
 
 Esse comando (função) permite exibir na tela do usuário mensagens, expressões e/ou valores armazenados em variáveis do programa. 
 
-<p>Sintaxe:</p>
+Sintaxe:
+
 ``` 
 print(mensagem)
 
