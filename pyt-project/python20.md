@@ -141,8 +141,8 @@ Quantidade de Parcelas	% de Juros sobre a dívida
 ```
 Dívida       Valor dos Juros   Qtde de Parcelas     Valor da Parcela
 R$ 1.000,00        0                 1                 R$ 1.000,00
-R$ 1.100,00        100               3                 R$   366,00
-R$ 1.150,00        150               6                 R$   191,67
+R$ 1.100,00        110,00            3                 R$   403,33
+R$ 1.150,00        172,50            6                 R$   220,41
 ```
 
 
