@@ -10,7 +10,7 @@ Esse comando permite receber o valor digitado no teclado pelo usuário e atribui
 
 Este comando interrompe a execução do programa para esperar que o usuário digite o valor solicitado no teclado e, ao final da digitação, pressione a tecla "Enter". Após isso, o valor digitado será movido para  variável associada ao **input**.
 
-Sintaxe:       
+Forma Geral:       
                 **variável = input('Mensagem para o usuário')**
                 
 Exemplo:
