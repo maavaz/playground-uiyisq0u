@@ -130,47 +130,27 @@ Desafio
 <ul>
 <li>Os juros e a quantidade de parcelas seguem a tabela abaixo:</li>
 </ul>
-<table>
+<table style="height: 78px;" width="355">
 <tbody>
-<tr style="height: 34px;">
-<td style="height: 34px;" width="160">
-<p>Quantidade de Parcelas</p>
-</td>
-<td style="height: 34px;" width="170">
-<p>% de Juros sobre a d&iacute;vida</p>
-</td>
+<tr>
+<td style="width: 169.333px;">Qunatidade de Parcelas</td>
+<td style="width: 170px;">% Juros sobre a d&iacute;vida</td>
 </tr>
-<tr style="height: 34px;">
-<td style="text-align: center; height: 34px;" width="160">
-<p>1</p>
-</td>
-<td style="text-align: center; height: 34px;" width="170">
-<p>0%</p>
-</td>
+<tr>
+<td style="width: 169.333px; text-align: center;">1</td>
+<td style="width: 170px; text-align: center;">0%</td>
 </tr>
-<tr style="height: 34px;">
-<td style="text-align: center; height: 34px;" width="160">
-<p>3</p>
-</td>
-<td style="text-align: center; height: 34px;" width="170">
-<p>10%</p>
-</td>
+<tr>
+<td style="width: 169.333px; text-align: center;">3</td>
+<td style="width: 170px; text-align: center;">10%</td>
 </tr>
-<tr style="height: 34px;">
-<td style="text-align: center; height: 34px;" width="160">
-<p>6</p>
-</td>
-<td style="text-align: center; height: 34px;" width="170">
-<p>15%</p>
-</td>
+<tr>
+<td style="width: 169.333px; text-align: center;">6</td>
+<td style="width: 170px; text-align: center;">15%</td>
 </tr>
-<tr style="height: 18.3333px;">
-<td style="text-align: center; height: 18.3333px;" width="160">
-<p>12</p>
-</td>
-<td style="text-align: center; height: 18.3333px;" width="170">
-<p>20%</p>
-</td>
+<tr>
+<td style="width: 169.333px; text-align: center;">12</td>
+<td style="width: 170px; text-align: center;">20%</td>
 </tr>
 </tbody>
 </table>
