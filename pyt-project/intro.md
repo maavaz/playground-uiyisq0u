@@ -11,6 +11,8 @@ A ideia da Tech.io é inovadora, pois permite o compartilhamento do conhecimento
 + Testes para fixação dos conceitos
 + Exercícios de programação
 
+**OBS:** Diferentemente de outros materiais disponíveis na Internet, o conteúdo aqui exposto não irá abortar sobre a instalação do python ou qualquer um IDE, iremos apenas sugerir a utilização de alguns. Há vários materiais disponíveis na Internet (p.ex. https://www.python.org/ ou https://www.spyder-ide.org/) que auxiliam na instalação do python.
+
 # Por que Python?
 
 + É uma liguagem simples, pricipalmente para um curso de introdução a Programação
