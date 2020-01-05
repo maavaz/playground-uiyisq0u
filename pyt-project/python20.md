@@ -142,7 +142,7 @@ Quantidade de Parcelas	% de Juros sobre a dívida
 Dívida       Valor dos Juros   Qtde de Parcelas     Valor da Parcela
 R$ 1.000,00        0                 1                 R$ 1.000,00
 R$ 1.100,00        110,00            3                 R$   403,33
-R$ 1.150,00        172,50            6                 R$   220,41
+R$ 1.150,00        172,50            6                 R$   220,42
 ```
 
 
@@ -151,21 +151,24 @@ R$ 1.150,00        172,50            6                 R$   220,41
 ::: Solução
 ```python
  
-compras= float(input("Digite o valor de suas compras:"))
-
-if compras <= 2000:
-     taxa=0.1
-elif compras <= 3000: # Nessa condição não é necessário por a condição de maior que 2000, pois nesse if já é maior que 2000*/
-     taxa = 0.05     
-elif compras <= 5000: # Nessa condição não é necessário por a condição de maior que 3000, pois nesse if já é maior que 3000*/
-     taxa = 0.03    
-else:
-      taxa=0.02      # Nessa condição não é necessário por a condição de maior que 2000, pois nesse if já é maior que 2000*/        
-desconto = compras * taxa
-totpagar = compras - desconto
-print("Compras : R$ {0:.2f}".format(compras))
-print("Desconto: R$ {0:.2f}".format(desconto))
-print("Total   : R$ {0:.2f}".format(totpagar))
+divida = float(input('Digite o valor da dívida:'))
+while divida != -1:
+    parcela = int(input('Digite a quantidade de parcelas:'))
+    if parcela == 1:
+        taxa = 0
+    elif parcela == 3:
+        taxa = 0.1
+    elif parcela == 6:
+        taxa = 0.15
+    else:
+        taxa = 0.2
+    valorjur = divida *  taxa
+    valparc = (divida + valorjur)/parcela   
+    print('Divida  :{0:.2f}'.format(divida))
+    print('Juros   :{0:.2f}'.format(valorjur))
+    print('Qtd Parc:',parcela)    
+    print('Parcela :{0:.2f}'.format(valparc)) 
+    divida = float(input('Digite o valor da dívida:'))
 
 ```
 :::
