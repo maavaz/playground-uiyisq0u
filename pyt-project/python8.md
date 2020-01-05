@@ -3,11 +3,14 @@
 Esse comando (função) permite exibir na tela do usuário mensagens, expressões e/ou valores armazenados em variáveis do programa. 
 
 <p>Sintaxe:</p>
-                <p><b>                               print(mensagem)</b></p>
+    ```` 
+                              print(mensagem)
+    ```                          
 
 Uma das variações da sintaxe da função é a que permite que várias strings sejam escritas. De forma mais geral a função **print** é
-
-                <p><b>print(string 1, string 2, …, string n )</b></p>
+```
+                 print(string 1, string 2, …, string n )
+```
 Assim cada string aparecerá separada por um espaço em branco, como no exemplo a seguir:
 <p><b>
 print("isso", "é", "teste")</b> #comando no programa do usuário</p>
