@@ -19,7 +19,7 @@ for variável in sequência:
  comando n
 próximo comando
 ```
-A sequência colocada na instrução **for** pode ser uma função (range) e a variável será incrementado ou decrementada a cada ciclo.
+A sequência colocada na instrução **for** pode ser uma função (range) e a variável será incrementada ou decrementada a cada ciclo.
 
 O exemplo a seguir exibe o laço **for** onde a variável **item** recebera um número, iniciando em zero, finalizando em 9 e, a cada ciclo (volta), a variável item é incrementada de 1 unidade. Execute o código selecionando a tecla Run.
 ``` python runnable
