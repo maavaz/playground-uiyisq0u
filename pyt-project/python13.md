@@ -4,7 +4,7 @@ Até agora vimos apenas o comando **print** na sua forma mais simples, mas exist
 Existe uma construção que permite formatar a saída com certa facilidade: é o **método format**. A forma mais simples de usar essa construção é marcar a posição, no comando print, onde o conteúdo da variável (ou resultado da expressão) aparecerá. Para isso, utiliza-se um número entre chaves,indicando a posição que a variável deverá estar no **método format**, por exemplo: 
  ![programa](/imagens/format.png)
  
- No exemplo acima, o método **format** possui três argumentos: **a (cujo índice é zero)**, **b (cujo índice é um)** e **x (cujo índice é dois)**. Dentro da string a marcação **{0}** é substituída pelo valor de **a**, a marcação **{1}** é substituída pelo valor de **b** e a marcação **{2}** é substituída pelo valor de **x**.
+ No exemplo acima, o método **format** possui três variáveis: **a (cujo índice é zero)**, **b (cujo índice é um)** e **x (cujo índice é dois)**. Dentro da string a marcação **{0}** é substituída pelo valor de **a**, a marcação **{1}** é substituída pelo valor de **b** e a marcação **{2}** é substituída pelo valor de **x**.
  
  Além da formatação posicional das variáveis, é possível, também, incluir a especificação da largura que se deseja reservar para um número, assim como o número de casas decimais que serão exibidos. Para efetuar a formatação, são utilizados códigos dentro da marcação dos parêntesis e seguidos de : (dois pontos).
  
