@@ -3,7 +3,7 @@
  #### Exercício 3 
 ---
 
-<p>Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:</p>
+<p>Faça um Programa que peça dois números inteiros e um número real. Calcule e mostre:</p>
 <p>a) o produto do dobro do primeiro com metade do segundo.</p>   
 <p>b) a soma do triplo do primeiro com o terceiro.</p>                                                                     
 <p>c) o terceiro elevado ao cubo. </p>
