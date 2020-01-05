@@ -134,7 +134,7 @@ Quantidade de Parcelas	% de Juros sobre a dívida
         1				0%
         3				10%
         6				15%
-       12               20%
+       12				20%
        
 ``` 
 +	Exemplo de saída do programa:
