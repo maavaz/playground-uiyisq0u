@@ -1,7 +1,7 @@
 # Comandos de Entrada e Saída em Python
 
-Os **comandos de entrada e saída** de um programa escrito em uma linguagem qualquer possuem a função de comunicação com o mundo exterior, isto é,
-o **comando de entrada** permite que o usuário envie dados do mundo exterior (p.ex. teclado) para uma variável do programa (variável associada ao comando) e o **comando de saída** permite exibir mensagens, expressões e/ou  valores armazenados em variáveis do programa.
+Os **comandos de entrada e saída** de um programa disponíveis nas linguagens de programação possuem a função de comunicação com o mundo exterior, isto é,
+o **comando de entrada** permite que o usuário envie dados do mundo exterior (p.ex. teclado) para uma variável do programa (variável associada ao comando) e o **comando de saída** permite exibir (p. ex. na tela do computador) mensagens, expressões e/ou  valores armazenados em variáveis do programa.
 
 ## Comando de Entrada em Python
 
