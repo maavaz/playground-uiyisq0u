@@ -11,7 +11,7 @@ Existem ambientes de programação (IDE) que já possuem os dois juntos e, por i
 
 Um programa python gera um arquivo com a extensão **.py** e pode ser executado diversas vezes.
 
-**Obs:** No ambiente tech.io utilizaremos os editores disponíveis (repl.it ou paiza.io) na web que podem ser acessados diretamente de nossas páginas.
+**Obs:** No ambiente tech.io utilizaremos os snippets ou editores online disponíveis (trinket.io ou repl.it ou paiza.io) na web que podem ser acessados diretamente de nossas páginas.
 
 ## Executando um programa
 
