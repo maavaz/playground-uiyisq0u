@@ -1,8 +1,8 @@
 # Variáveis
 
-Para que um programa possa manipular os dados, estes precisam estar armazenados em locais da memória do computador, denominado de variáveis.
+Para que um programa possa manipular os dados, estes precisam estar armazenados em locais da memória do computador. Esse locais usados para armazenar dados são denominados de variáveis. Portanto,
 ``` 
-As variáveis podem ser definidas como locais de memória que servem para armazenar temporariamente (durante a execução do programa ou seção do terminal) dados(valores) que deverão ser utilizados na execução do programa ou na seção do terminal.
+Variáveis podem ser definidas como locais de memória que servem para armazenar temporariamente (durante a execução do programa ou seção do terminal) dados(valores) que deverão ser utilizados na execução do programa ou na seção do terminal.
 ```
 Muitas vezes é necessário guardar um dado (p.ex. um número) digitado pelo usuário para ser usado em um cálculo subsequente, gravá-lo em um arquivo ou até enviá-lo pela internet para outro local. Esse
 é o objetivo da variável. O nome "Variável" é dado porque a informação guardada pode ser alterada, isto é, pode variar.
