@@ -4,4 +4,4 @@ Para editar os programas desenvolvidos em Python, pode-se utilizar vários edito
 
 ![programa](/imagens/editor.png)
 
-**OBS:** Para o desenvolvimento de nossos exercícios utilizaremos os editores online disponibilizados.
+**OBS:** Para o desenvolvimento de nossos exercícios utilizaremos os editores online disponibilizados nas páginas de exercícios (p.ex. https://trinket.io/).
