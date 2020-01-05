@@ -127,13 +127,17 @@ print('Quantidade de adultos pesquisados(>18 anos):',contadul)
 Desafio
 ----
 Faça um programa que receba o valor de uma dívida calcula e exiba: valor da dívida, valor dos juros, quantidade de parcelas e valor da parcela (juros simples), como mostra o exemplo abaixo. O programa termina quando o valor da dívida for igual -1.
+
 •	Os juros e a quantidade de parcelas seguem a tabela abaixo:
+
 Quantidade de Parcelas	% de Juros sobre a dívida
         1	                        0%
         3	                        10%
         6	                        15%
         12	                        20%
+        
 •	Exemplo de saída do programa:
+
   Dívida    Valor dos Juros   Qtde de Parcelas     Valor da Parcela
 R$ 1.000,00     0                  1                    R$ 1.000,00
 R$ 1.100,00     100                3                    R$   366,00
