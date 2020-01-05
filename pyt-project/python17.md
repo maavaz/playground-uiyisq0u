@@ -103,7 +103,9 @@ Faça um programa que calcule o desconto de uma compra feita em uma loja. O prog
 + 5% de desconto se a compra for maior que R$ 2.000,00 e menor ou igual a R$ 3.000,00;
 + 3% de desconto se for maior que R$ 3.000,00 e menor ou igual a R$ 5.000,00;
 + 2% de desconto para compras acima de R$ 5.000,00.
+
 O programa deverá exibir o valor da compra, o valor do desconto e o total a pagar. Formatar as saídas para 2 casas decimais.
+
 @[Programacao Python]({"stubs": ["./www/terminal2"],"command": "sh /project/target/www/terminal9.sh" })
 
 ::: Solução
