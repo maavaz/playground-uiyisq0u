@@ -126,67 +126,23 @@ print('Quantidade de adultos pesquisados(>18 anos):',contadul)
 ----
 Desafio
 ----
-<p>Fa&ccedil;a um programa que receba o valor de uma d&iacute;vida calcula e exiba: valor da d&iacute;vida, valor dos juros, quantidade de parcelas e valor da parcela (juros simples), como mostra o exemplo abaixo. O programa termina quando o valor da d&iacute;vida for igual -1.</p>
-<ul>
-<li>Os juros e a quantidade de parcelas seguem a tabela abaixo:</li>
-</ul>
-<table style="height: 60px;" width="300">
-<tbody>
-<tr>
-<td style="width: 133px;">Quantidade de Parcelas</td>
-<td style="width: 120px;">% Juros sobre a d&iacute;vida</td>
-</tr>
-<tr>
-<td style="width: 1333px; text-align: center;">1</td>
-<td style="width: 120px; text-align: center;">0%</td>
-</tr>
-<tr>
-<td style="width: 1333px; text-align: center;">3</td>
-<td style="width: 120px; text-align: center;">10%</td>
-</tr>
-<tr>
-<td style="width: 1333px; text-align: center;">6</td>
-<td style="width: 120px; text-align: center;">15%</td>
-</tr>
-<tr>
-<td style="width: 1333px; text-align: center;">12</td>
-<td style="width: 120px; text-align: center;">20%</td>
-</tr>
-</tbody>
-</table>
-<ul>
-<li>Exemplo de sa&iacute;da do programa:</li>
-</ul>
-<p>&nbsp;</p>
-<table style="height: 90px;" width="432">
-<tbody>
-<tr>
-<td style="width: 102.667px; text-align: center;">D&iacute;vida &nbsp;&nbsp;</td>
-<td style="width: 101.333px; text-align: center;">Valor dos Juros &nbsp;</td>
-<td style="width: 105.333px; text-align: center;">Qtde de Parcela</td>
-<td style="width: 95.3333px; text-align: center;">Valor da Parcela</td>
-</tr>
-<tr>
-<td style="width: 102.667px;">R$ 1.000,00&nbsp;</td>
-<td style="width: 101.333px; text-align: center;">0</td>
-<td style="width: 105.333px; text-align: center;">1</td>
-<td style="width: 95.3333px;">R$ 1.000,00</td>
-</tr>
-<tr>
-<td style="width: 102.667px;">R$ 1.100,00&nbsp;&nbsp;</td>
-<td style="width: 101.333px; text-align: center;">100</td>
-<td style="width: 105.333px; text-align: center;">3</td>
-<td style="width: 95.3333px;">&nbsp;R$&nbsp; &nbsp;366,00</td>
-</tr>
-<tr>
-<td style="width: 102.667px;">R$ 1.150,00</td>
-<td style="width: 101.333px; text-align: center;">150</td>
-<td style="width: 105.333px; text-align: center;">6</td>
-<td style="width: 95.3333px;">R$&nbsp; &nbsp;191,67</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
+Faça um programa que receba o valor de uma dívida calcula e exiba: valor da dívida, valor dos juros, quantidade de parcelas e valor da parcela (juros simples), como mostra o exemplo abaixo. O programa termina quando o valor da dívida for igual -1.
+•	Os juros e a quantidade de parcelas seguem a tabela abaixo:
+```
+Quantidade de Parcelas	% de Juros sobre a dívida
+        1				0%
+        3				10%
+        6				15%
+        12			20%
+```
+•	Exemplo de saída do programa:
+```
+Dívida    Valor dos Juros   Qtde de Parcelas     Valor da Parcela
+R$ 1.000,00     0                1                      R$ 1.000,00
+R$ 1.100,00     100              3                      R$   366,00
+R$ 1.150,00     150              6                      R$   191,67
+```
+
 
 @[Programacao Python]({"stubs": ["./www/terminal2"],"command": "sh /project/target/www/terminal9.sh" })
 
