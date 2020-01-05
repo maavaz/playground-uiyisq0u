@@ -126,12 +126,19 @@ print('Quantidade de adultos pesquisados(>18 anos):',contadul)
 ----
 Desafio
 ----
-Faça um programa que calcule o desconto de uma compra feita em uma loja. O programa deve ler o valor das compras e calcular o valor do desconto obedecendo os seguintes percentuais: 
-+ 10% de desconto se a compra for menor ou igual que R$2.000,00; 
-+ 5% de desconto se a compra for maior que R$ 2.000,00 e menor ou igual a R$ 3.000,00;
-+ 3% de desconto se for maior que R$ 3.000,00 e menor ou igual a R$ 5.000,00;
-+ 2% de desconto para compras acima de R$ 5.000,00.
-O programa deverá exibir o valor da compra, o valor do desconto e o total a pagar. Formatar as saídas para 2 casas decimais.
+Faça um programa que receba o valor de uma dívida calcula e exiba: valor da dívida, valor dos juros, quantidade de parcelas e valor da parcela (juros simples), como mostra o exemplo abaixo. O programa termina quando o valor da dívida for igual -1.
+•	Os juros e a quantidade de parcelas seguem a tabela abaixo:
+Quantidade de Parcelas	% de Juros sobre a dívida
+        1	                        0%
+        3	                        10%
+        6	                        15%
+        12	                        20%
+•	Exemplo de saída do programa:
+  Dívida    Valor dos Juros   Qtde de Parcelas     Valor da Parcela
+R$ 1.000,00     0                  1                    R$ 1.000,00
+R$ 1.100,00     100                3                    R$   366,00
+R$ 1.150,00     150                6                    R$   191,67
+
 @[Programacao Python]({"stubs": ["./www/terminal2"],"command": "sh /project/target/www/terminal9.sh" })
 
 ::: Solução
