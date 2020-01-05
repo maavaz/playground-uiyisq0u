@@ -32,7 +32,7 @@ atribuição.
               Variavel = valor
               
    Após a execução do comando a variável estará armazenando o valor movido.
-
+```
 ## EXEMPLOS:
 ```
 In [1]: a = 2       # Guarda o número 2 (número inteiro) na variável chamada **a**. A partir desse ponto toda vez que se usar a numa expressão, o **a** será computado como sendo 2. veja o exemplo seguinte:
