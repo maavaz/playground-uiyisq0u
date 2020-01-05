@@ -130,10 +130,10 @@ Desafio
 <ul>
 <li>Os juros e a quantidade de parcelas seguem a tabela abaixo:</li>
 </ul>
-<table style="height: 78px;" width="355">
+<table style="height: 60px;" width="300">
 <tbody>
 <tr>
-<td style="width: 169.333px;">Qunatidade de Parcelas</td>
+<td style="width: 169.333px;">Quantidade de Parcelas</td>
 <td style="width: 170px;">% Juros sobre a d&iacute;vida</td>
 </tr>
 <tr>
