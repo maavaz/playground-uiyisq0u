@@ -22,7 +22,7 @@ Ex.:
 ```
   Obs: O comando print exibe as informações na tela do usuário. 
   
-  Formato do comando: <b>print(string)</b>
+  Formato do comando: print(string)
   
 >>> print("ab\rd")         # \r retorna para o início da linha, portanto irá exibir o caracter d seguido do b.
 db
