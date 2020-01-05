@@ -29,4 +29,4 @@ ZeroDivisionError: division by zero
 
 As mensagens de erro são fontes importantes para ajudar a descobrir problemas nos programas durante a fase de desenvolvimento.
 
-***Obs:*** Digitação de linhas longas O símbolo “\” (barra invertida) tem a função de indicar ao terminal que um comando digitado não cabe na linha, e que a linha seguinte é uma continuação da linha que termina com a barra.
+***Obs:*** Digitação de linhas longas o símbolo “\” (barra invertida) tem a função de indicar ao terminal que um comando digitado não cabe na linha, e que a linha seguinte é uma continuação da linha que termina com a barra.
