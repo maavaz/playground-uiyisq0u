@@ -5,13 +5,13 @@ Esse comando (função) permite exibir na tela do usuário mensagens, expressõe
 Sintaxe:
 
 ``` 
-print(mensagem)
+                   print(mensagem)
 
 ```                          
 
 Uma das variações da sintaxe da função é a que permite que várias strings sejam escritas. De forma mais geral a função **print** é
 ```
-                 print(string 1, string 2, …, string n )
+                   print(string 1, string 2, …, string n )
 ```
 Assim cada string aparecerá separada por um espaço em branco, como no exemplo a seguir:
 <p><b>
