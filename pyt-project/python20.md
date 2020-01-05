@@ -133,24 +133,24 @@ Desafio
 <table style="height: 60px;" width="300">
 <tbody>
 <tr>
-<td style="width: 169.333px;">Quantidade de Parcelas</td>
-<td style="width: 170px;">% Juros sobre a d&iacute;vida</td>
+<td style="width: 133px;">Quantidade de Parcelas</td>
+<td style="width: 120px;">% Juros sobre a d&iacute;vida</td>
 </tr>
 <tr>
-<td style="width: 169.333px; text-align: center;">1</td>
-<td style="width: 170px; text-align: center;">0%</td>
+<td style="width: 1333px; text-align: center;">1</td>
+<td style="width: 120px; text-align: center;">0%</td>
 </tr>
 <tr>
-<td style="width: 169.333px; text-align: center;">3</td>
-<td style="width: 170px; text-align: center;">10%</td>
+<td style="width: 1333px; text-align: center;">3</td>
+<td style="width: 120px; text-align: center;">10%</td>
 </tr>
 <tr>
-<td style="width: 169.333px; text-align: center;">6</td>
-<td style="width: 170px; text-align: center;">15%</td>
+<td style="width: 1333px; text-align: center;">6</td>
+<td style="width: 120px; text-align: center;">15%</td>
 </tr>
 <tr>
-<td style="width: 169.333px; text-align: center;">12</td>
-<td style="width: 170px; text-align: center;">20%</td>
+<td style="width: 1333px; text-align: center;">12</td>
+<td style="width: 120px; text-align: center;">20%</td>
 </tr>
 </tbody>
 </table>
