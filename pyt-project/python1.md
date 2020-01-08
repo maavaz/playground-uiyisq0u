@@ -12,8 +12,17 @@
 @[Interative Python]({"stubs": ["./www/terminal"],"command": "sh /project/target/www/terminal.sh"
 })
 
+-------
+**Testando os conhecimentos....**
+-------
 ?[qual o valor da expressão:  2 + 3 * 2 - 3 ** 2]
-[ ] 0
-[x] -1
-[ ] 25
-[ ] 1
+-[ ] 0
+-[x] -1
+-[ ] 25
+-[ ] 1
+
+?[qual o valor da expressão:  16 - 2 * 5 // 3 + 1]
+-[ ] 3
+-[ ] 12
+-[ ] 24
+-[x] 14
