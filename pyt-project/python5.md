@@ -66,6 +66,21 @@ Out[11]: 1
 
 In [12]: b
 Out[12]: 2
+
+In [13]: a, b, c, d = 'Fulano da Silva', 20, '123.456.789-00', 1.78
+
+In [14]: a
+Out[14]: 'Fulano da Silva'
+
+In [15]: b
+Out[15]: 20
+
+In [16]: c
+Out[16]: '123.456.789-00'
+
+In [17]: d
+Out[17]: 1.78
+
 ```
 
 **Obs:** Uma variável criada em uma seção do terminal ou programa será perdida quando a seção ou programa se encerrar. 
