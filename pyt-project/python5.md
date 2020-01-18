@@ -56,5 +56,17 @@ NameError                Traceback (most recent call last)
 
 NameError: name 'c' is not defined
 ```
+### Atribuição Multipla
+O python permite a atribuição múltipla que é a capacidade de atribuir um conjunto de valores a um conjunto de variáveis. Ambos conjuntos precisam, obrigatoriamente, possuir a mesma quantidade de elementos, isto é, a quantidade de variáveis a esquerda deve ter a mesma quantidade de valores a direita. Veja os exemplos, a seguir:
+``` python
+In [10]: a,b = 1,2     # podemos usar parênteses a,b = (1,2) tem o mesmo efeito
+
+In [11]: a
+Out[11]: 1
+
+In [12]: b
+Out[12]: 2
+```
+
 **Obs:** Uma variável criada em uma seção do terminal ou programa será perdida quando a seção ou programa se encerrar. 
 Assim caso se inicie uma nova seção ou execute o programa novamente, os valores anteriores não serão reconhecidos.
