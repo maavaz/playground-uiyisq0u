@@ -1,5 +1,11 @@
 # Exercitando (Condicional)
 
+?[Dado o seguinte comando print: print("{0:#^30}".format("Programação Python")). qual será a sua saída?]
+-[ ] Programação Python############
+-[x] ######Programação Python######
+-[ ] ############Programação Python
+-[ ] #Progrmamação Python#
+
 Observe o trecho do programa abaixo.
 ``` 
  if x >= y:
