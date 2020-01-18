@@ -17,19 +17,22 @@ A forma geral do comando **if** é:
 + As expressões relacionais permitem a comparação de valores de mesmo tipo, cujo resultado é um valor do tipo Verdadeiro (True) ou Falso (False). 
 
 **Operadores Relacionais:**
-```
-== igual
-!= diferente
->  maior
->= maior ou igual
-<  menor
-<= menor ou igual
-```
+São operadores que possibilitam a comparação entre os dois operandos. Os dois operandos, obrigatoriamente, devem ser do mesmo tipo e o resultado da expressão é um valor booleano(True ou False).
+
+ ![programa](/imagens/operadorrelacional.png)
+
 **Exemplo de Expressões relacionais**
+``` python
+In [1]: 2 == 3
+Out[1]: False
+
+In [2]: 3 >= 2
+Out[2]: True
+
+In [3]: 5 != 6
+Out[3]: True
 ```
-A expressão 3 > 2 possui valor verdadeiro. 
-A expressão 4 < 1  possui valor falso.
-```
+
 -------
 **Testando os conhecimentos....**
 
