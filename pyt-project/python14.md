@@ -19,7 +19,7 @@ A forma geral do comando **if** é:
 **Operadores Relacionais:**
 São operadores que possibilitam a comparação entre os dois operandos. Os dois operandos, obrigatoriamente, devem ser do mesmo tipo e o resultado da expressão é um valor booleano(True ou False).
 
- ![programa](/imagens/operadorrelacional.png)
+ ![programa](/imagens/operadoresrelacionais.png)
 
 **Exemplo de Expressões relacionais**
 ``` python
