@@ -21,8 +21,9 @@ while item < 10:           # a variável item é o sinalizador de parada
  print(item)
  item += 1                 # comando que modifica a condição de continuidade    
 ``` 
-Notem que, na estrutura **for**, a inicialização e o incremento da variável **item** são efetuadas automaticamente pela estrutura. Na estrutura **while** isso tem que ser feito pelo programador. Por isso, nesse tipo de problema (processamento com um número pré-determinado de repetições é melhor implementado com a estrutura **for**).
-O comando **item += 1** significa **item = item + 1** (instrução de incremento de 1 unidade).
++ Na estrutura **for**, a inicialização e o incremento da variável **item** são efetuados automaticamente pela estrutura. 
++ Na estrutura **while**, ambos devem ser feitos pelo programador.
++ O comando **item += 1** significa **item = item + 1** (instrução de incremento de 1 unidade).
 
 ---
 Outro tipo de Exemplo:
