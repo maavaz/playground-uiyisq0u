@@ -17,9 +17,9 @@ A estrutura que representa esse tipo de repetição é a **while**, que possui a
 O exemplo a seguir é o mesmo apresentado no caso da estrutura for, isto é, um programa que imprime os números de 0 até 9.
 ``` python runnable
 item = 0
-while item < 10:
+while item < 10:           # a variável item é o sinalizador de parada  
  print(item)
- item += 1
+ item += 1                 # comando que modifica a condição de continuidade    
 ``` 
 Notem que, na estrutura **for**, a inicialização e o incremento da variável **item** são efetuadas automaticamente pela estrutura. Na estrutura **while** isso tem que ser feito pelo programador. Por isso, nesse tipo de problema (processamento com um número pré-determinado de repetições é melhor implementado com a estrutura **for**).
 O comando **item += 1** significa **item = item + 1** (instrução de incremento de 1 unidade).
