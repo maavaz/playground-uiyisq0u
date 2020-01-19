@@ -2,14 +2,8 @@
 
 O processamento condicional introduz um elemento importante na programação que é a habilidade do computador fazer coisas diferentes dependendo de determinadas condições. Nesse sentido, o processamento Condicional introduz a estrutura de decisão **if** que é uma declaração que instrui o computador a executar um bloco de comandos apenas se uma dada condição associada ao **if** é verdadeira. 
 A forma geral do comando **if** é: 
-```
-                               if condição: 
-                                  comando 1 
-                                  comando 2
-                                  ...
-                                  comando n 
-                               comando não pertencente ao if                                                                  
-```
+![funcao](/imagens/if.png)
+
 + A execução desse conjunto de comandos associados ao **if** dependerá da avaliação (verdadeira ou Falsa) da(s) condição(ões) associada(s).
 + **Atenção:** É importante que os comandos associados a estrutura **if** iniciem sempre na mesma coluna (caso contrário o interpretador irá emitir um erro). 
 + Necessariamente esses comandos devem estar recuados à direita em relação a estrutura para demonstrar pertencimento. 
