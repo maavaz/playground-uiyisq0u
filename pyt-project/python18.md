@@ -14,7 +14,7 @@ Nessa estrutura define-se uma variável de controle da repetição que vai assum
 
  ![programa](/imagens/for.png)
  
-+ A sequência colocada na instrução **for** pode ser uma função (**range()**) e a variável será incrementada ou decrementada a cada ciclo. 
++ A **sequência** na instrução **for** pode ser uma função (**range()**) e a **variável** será incrementada ou decrementada a cada ciclo. 
 + A função **range()** gera uma lista de valores que são incrementados ou decrementados durante cada ciclo do **for**. 
 + O incremento/decremento padrão da estrutura é (+ ou - 1) e o valor padrão inicial é 0 (zero). 
 + Esses valores podem ser alterados pelo programador. 
