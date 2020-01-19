@@ -11,10 +11,10 @@ Em algumas situações, é comum que um comando (ou conjunto deles) precise ser 
 ---
 Esse tipo de processamento é representado pela estrutura do ```for``` que tem o objetivo de repetir um conjunto de comandos um número fixo de vezes. 
 Nessa estrutura define-se uma variável de controle da repetição que vai assumindo um valor dentro de um conjunto de valores pré-definidos. Cabe ao programador definir o nome e a lista de valores possíveis para essa variável. A forma geral do comando for é a que segue:
-```
 
-```
-A sequência colocada na instrução **for** pode ser uma função (range) e a variável será incrementada ou decrementada a cada ciclo.
+ ![programa](/imagens/for.png)
+ 
+A sequência colocada na instrução **for** pode ser uma função (**range**) e a variável será incrementada ou decrementada a cada ciclo. A função **range()** gera uma lista de valores que são incrementados ou decrementados durante cada ciclo do **for**. O incremento/decremento padrão da estrutura é (+ ou - 1) e o valor padrão inicial é 0 (zero). Esses valores podem ser alterados pelo progrmamador. A seguir, é exibido a forma geral da função range:
 
 O exemplo a seguir exibe o laço **for** onde a variável **item** recebera um número, iniciando em zero, finalizando em 9 e, a cada ciclo (volta), a variável item é incrementada de 1 unidade. Execute o código selecionando a tecla Run.
 ``` python runnable
