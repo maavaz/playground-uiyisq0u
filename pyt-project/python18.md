@@ -14,8 +14,12 @@ Nessa estrutura define-se uma variável de controle da repetição que vai assum
 
  ![programa](/imagens/for.png)
  
-A sequência colocada na instrução **for** pode ser uma função (**range**) e a variável será incrementada ou decrementada a cada ciclo. A função **range()** gera uma lista de valores que são incrementados ou decrementados durante cada ciclo do **for**. O incremento/decremento padrão da estrutura é (+ ou - 1) e o valor padrão inicial é 0 (zero). Esses valores podem ser alterados pelo progrmamador. A seguir, é exibido a forma geral da função range:
+A sequência colocada na instrução **for** pode ser uma função (**range**) e a variável será incrementada ou decrementada a cada ciclo. A função **range()** gera uma lista de valores que são incrementados ou decrementados durante cada ciclo do **for**. O incremento/decremento padrão da estrutura é (+ ou - 1) e o valor padrão inicial é 0 (zero). Esses valores podem ser alterados pelo programador. 
 
+A seguir, é exibido a forma geral da função range:
+
+![programa](/imagens/range.png)
+ 
 O exemplo a seguir exibe o laço **for** onde a variável **item** recebera um número, iniciando em zero, finalizando em 9 e, a cada ciclo (volta), a variável item é incrementada de 1 unidade. Execute o código selecionando a tecla Run.
 ``` python runnable
 for item in range(10):
