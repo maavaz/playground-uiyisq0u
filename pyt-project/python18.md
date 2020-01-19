@@ -12,12 +12,7 @@ Em algumas situações, é comum que um comando (ou conjunto deles) precise ser 
 Esse tipo de processamento é representado pela estrutura do ```for``` que tem o objetivo de repetir um conjunto de comandos um número fixo de vezes. 
 Nessa estrutura define-se uma variável de controle da repetição que vai assumindo um valor dentro de um conjunto de valores pré-definidos. Cabe ao programador definir o nome e a lista de valores possíveis para essa variável. A forma geral do comando for é a que segue:
 ```
-for variável in sequência:
- comando 1
- comando 2
- etc.
- comando n
-próximo comando
+
 ```
 A sequência colocada na instrução **for** pode ser uma função (range) e a variável será incrementada ou decrementada a cada ciclo.
 
