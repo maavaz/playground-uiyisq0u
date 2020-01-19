@@ -16,7 +16,7 @@ Nessa estrutura define-se uma variável de controle da repetição que vai assum
  
 + A **sequência** na instrução **for** pode ser uma função (**range()**) e a **variável** será incrementada ou decrementada a cada ciclo. 
 + A função **range()** gera uma lista de valores que são incrementados ou decrementados durante cada ciclo do **for**. 
-+ O incremento/decremento padrão da estrutura é (+ ou - 1) e o valor padrão inicial é 0 (zero). 
++ O incremento/decremento padrão da estrutura é (+ ou - 1) e o valor padrão inicial é 0 (zero) e o final é sempre o valor de parada - 1. 
 + Esses valores podem ser alterados pelo programador. 
 
 A seguir, é exibido a forma geral da função range:
