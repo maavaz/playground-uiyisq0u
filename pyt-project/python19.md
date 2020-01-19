@@ -16,10 +16,10 @@ A estrutura que representa esse tipo de repetição é a **while**, que possui a
 
 O exemplo a seguir é o mesmo apresentado no caso da estrutura for, isto é, um programa que imprime os números de 0 até 9.
 ``` python runnable
-item = 0
+item = 0                   # incialização
 while item < 10:           # a variável item é o sinalizador de parada  
  print(item)
- item += 1                 # comando que modifica a condição de continuidade    
+ item += 1                 # comando que modifica a condição de continuidade (incremento)    
 ``` 
 + Na estrutura **for**, a inicialização e o incremento da variável **item** são efetuados automaticamente pela estrutura. 
 + Na estrutura **while**, ambos devem ser feitos pelo programador.
