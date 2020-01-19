@@ -23,7 +23,7 @@ A seguir, é exibido a forma geral da função range:
 
 ![programa](/imagens/range.png)
  
-O exemplo a seguir exibe o laço **for** onde a variável **item** receberá (da função **range()**) um número, iniciando em zero, finalizando em 9 (10 - 1) e, a cada ciclo (volta), a variável item é incrementada de 1 unidade. Execute o código selecionando a tecla Run.
+O exemplo a seguir exibe o laço **for** onde a variável **item** receberá (da função **range()**) um número, iniciando em zero, finalizando em 9 (= 10 - 1) e, a cada ciclo (volta), a variável item é incrementada de 1 unidade. Execute o código selecionando a tecla Run.
 ``` python runnable
 for item in range(10):
     print(item)
