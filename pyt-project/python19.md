@@ -9,7 +9,7 @@ A estrutura que representa esse tipo de repetição é a **while**, que possui a
  ![while](/imagens/while.png)
  
 + A condição de continuidade obrigatoriamente deve ser modificada a cada volta no laço (loop) - **sinalizador de parada**. 
-+ A condição de continuidade deve ser modificada por um comando dentro da estrutura **while**, senão o **while** fica em loop infinito
++ A condição de continuidade deve ser modificada por um comando dentro da estrutura, senão o **while** fica em **loop infinito**
 + A condição de continuidade é testada toda vez que o fluxo retorna  a estrutura **while** 
 + Enquanto a condição de continuidade for verdadeira todo o bloco de comandos pertencente a estrutura (recuado) será executado. 
 + Esse processo se repete até que a condição de continuidade se torne falsa e o processamento segue o fluxo. 
