@@ -1,6 +1,6 @@
 # Programação Python
 
-![programacao](/imagens/slide1.JPG)
+![programacao](/imagens/bifurcacao.png)
 
 ---
 ![programacao](/imagens/slide2.JPG)
