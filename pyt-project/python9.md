@@ -1,6 +1,6 @@
 # Programação Python
 
-![programacao](/imagens/slide1.png)
+![programacao](/imagens/SLIDE1.PNG)
 
 ---
-![programacao](/imagens/slide2.png)
+![programacao](/imagens/SLIDE2.PNG)
