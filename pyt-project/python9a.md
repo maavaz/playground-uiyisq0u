@@ -1,6 +1,6 @@
 # Programação Python
 
-Uma vez identificados os dados de Entrada, Saída e os comandos de transformação podemos criar o nosso programa Python. A Conversão para um programa Python é dada da seguinte forma:
+Uma vez identificados os dados de **entrada, saída e os comandos de transformação** podemos criar o nosso programa Python. A Conversão para um programa Python é feita da seguinte forma:
 
 + Associar cada dado da entrada a um comando **input**
 + Comandos do Processamento
