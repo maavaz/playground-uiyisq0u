@@ -1,6 +1,8 @@
 # Programação Python
 
-![programacao](/imagens/bifurcação.png)
+A estrutura de um programa é composta por três partes:
++ **Entrada**
++ **Processamento**
++ **Saída** 
 
----
 
