@@ -29,7 +29,9 @@ plan:
   description: Esta é a descrição do segundo capítulo.
   plan:     
   - title: Desenvolvendo um programa
-    statement: /pyt-project/python9.md    
+    statement: /pyt-project/python9.md 
+  - title: Desenvolvendo um programa (Continuação)
+    statement: /pyt-project/python9a.md      
   - title: Processamento Sequencial
     statement: /pyt-project/python10.md
   - title: Processamento Sequencial (Continuação)
