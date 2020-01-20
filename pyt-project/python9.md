@@ -13,4 +13,4 @@ A estrutura de um programa é composta por três partes:
 Faça um programa python para receber (Entrada) dois números inteiros do usuário e exibir (Saída) 
 a soma dos números digitados.  
  
- 
+ ![programacao](/imagens/exercicio.png)
