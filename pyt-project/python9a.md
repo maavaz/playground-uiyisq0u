@@ -6,7 +6,7 @@ Uma vez identificados os dados de **entrada**, **saída** e os **comandos de tra
 + Comandos do Processamento
 + Associar cada dado na saída a um comando **print**
 
-![funcao](/imagens/conversao.png)
+![funcao](/imagens/conversao1.png)
 
 
 ---------------
