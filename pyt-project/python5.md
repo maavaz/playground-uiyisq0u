@@ -30,7 +30,7 @@ O nome de uma variável é dado pelo programador e deve seguir as seguintes regr
 O comando de atribuição (=) é um comando que possibilita ao programador mover valores para dentro das variáveis. Uma variável só pode ser usada depois de criada através de um comando de
 atribuição. 
  
-                  ![funcao](/imagens/variavel.png)
+![funcao](/imagens/variavel.png)
 ## EXEMPLOS:
 ```
 In [1]: a = 2       # Guarda o número 2 (número inteiro) na variável chamada "a". A partir desse ponto toda vez que se usar a numa expressão, o "a" será computado como sendo 2. veja o exemplo seguinte:
