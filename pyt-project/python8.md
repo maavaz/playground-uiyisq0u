@@ -24,7 +24,7 @@ x = int(input('digite: ')) </b> # O usuário digita o número 123</p>
 <p><b>print("você digitou: ", x) </b> # será exibida a mensagem juntamente com o número digitado</p>
 <p><b>você digitou: 123</b>          #saída na tela do usuário</p>
 
-###Execute o programa (tecla Run) a seguir:
+### <b>Execute o programa (tecla Run) a seguir:</b>
 ``` python runnable
 print("Essa mensagem aparece na primeira linha\nEnquanto essa aparece na segunda") 
 x = 10
