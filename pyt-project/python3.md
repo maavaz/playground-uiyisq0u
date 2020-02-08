@@ -1,7 +1,7 @@
 # Strings
 
 São compostos por um conjunto de caracteres alfanuméricos (cadeias de caracteres) escritos usando aspas simples ou duplas
-Ex.: 
+Ex.: <br>
 "abc" ou 'abc' 
 
 ### <b> Operações com Strings</b>
