@@ -16,7 +16,7 @@ Toda variável tem:
 + <b>Uma abrangência (ou escopo)</b> - uma variável só pode ser usada (para armazenar e resgatar dados) no módulo do programa que foi criada.
 
 
-## Criação da Variável
+### <b>Criação da Variável</b>
 Uma variável é criada pelo programa python no momento que precisamos armazenar um valor no seu interior. A partir daí, essa variável pode ser usada ao longo do programa.
 O nome de uma variável é dado pelo programador e deve seguir as seguintes regras
 + Formado por uma sequência de caracteres (letras maiusculas/minúsculas ou números);
@@ -29,13 +29,8 @@ O nome de uma variável é dado pelo programador e deve seguir as seguintes regr
 ## Comando de Atribuição
 O comando de atribuição (=) é um comando que possibilita ao programador mover valores para dentro das variáveis. Uma variável só pode ser usada depois de criada através de um comando de
 atribuição. 
-```     
-    Forma Geral:
-   
-              Variavel = valor
-              
-   Após a execução do comando a variável estará armazenando o valor movido.
-```
+ 
+                ![funcao](/imagens/variavel.png)
 ## EXEMPLOS:
 ```
 In [1]: a = 2       # Guarda o número 2 (número inteiro) na variável chamada "a". A partir desse ponto toda vez que se usar a numa expressão, o "a" será computado como sendo 2. veja o exemplo seguinte:
@@ -56,7 +51,7 @@ NameError                Traceback (most recent call last)
 
 NameError: name 'c' is not defined
 ```
-### Atribuição Multipla
+### <b>Atribuição Multipla</b>
 O python permite a atribuição múltipla que é a capacidade de atribuir um conjunto de valores a um conjunto de variáveis. Ambos conjuntos precisam, obrigatoriamente, possuir a mesma quantidade de elementos, isto é, a quantidade de variáveis a esquerda deve ter a mesma quantidade de valores a direita. Veja os exemplos, a seguir:
 ``` python
 In [10]: a,b = 1,2     # podemos usar parênteses a,b = (1,2) tem o mesmo efeito
