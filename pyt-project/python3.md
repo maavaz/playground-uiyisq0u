@@ -4,7 +4,7 @@ São compostos por um conjunto de caracteres alfanuméricos (cadeias de caracter
 Ex.: 
 "abc" ou 'abc' 
 
-### <b> Operações com Strings </b>
+### <b>Operações com Strings </b>
 + O operador “+” pode ser usado para concatenar strings
    Ex.: "a"+"b" é o mesmo que "ab"
 + O operador “*” pode ser usado para repetir strings
