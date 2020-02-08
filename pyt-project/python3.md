@@ -5,18 +5,18 @@ Ex.:
 "abc" ou 'abc' 
 
 ### <b> Operações com Strings</b>
-+ O operador “+” pode ser usado para concatenar strings
-   Ex.: "a"+"b" é o mesmo que "ab"
-+ O operador “*” pode ser usado para repetir strings
-   Ex.: "a"*10 é o mesmo que "aaaaaaaaaa"
++ O operador “+” pode ser usado para concatenar strings <br>
+   Ex.: <b> a + b </b>  é o mesmo que  <b>ab </b>
++ O operador “*” pode ser usado para repetir strings <br>
+   Ex.: <b>a * 10 </b> é o mesmo que  <b>aaaaaaaaaa </b>
 + Os caracteres não imprimíveis (p.ex. Enter) podem ser expressos usando notação "barra-invertida" ("\\")
 ```
-"\n" é o mesmo que new line (Enter)
-"\r" é o mesmo que carriage return (retornar para o início da linha)
-"\t" é o mesmo que tab 
-"\b" é o mesmo que backspace
-"\\" é o mesmo que \ 
-"\x41" é o mesmo que o caractere cujo código hexadecimal é 41 (“A” maiúsculo)
+<b>\n </b> é o mesmo que <b>new line (Enter) </b>
+<b>\r </b> é o mesmo que <b>carriage return </b> (retornar para o início da linha)
+<b>\t </b> é o mesmo que <b>tab </b> 
+<b>\b </b> é o mesmo que <b>backspace </b>
+<b>\\ </b> é o mesmo que <b>\ </b> 
+<b>\x41 </b> é o mesmo que o caractere cujo código hexadecimal é 41 (“A” maiúsculo)
 ```
 
 ```
