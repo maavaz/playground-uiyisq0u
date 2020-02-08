@@ -42,7 +42,7 @@ while b < 10:
 -[x] 4 e 8.
 
 
-###### Exercício 1  
+#### <b>Exercício 1</b>  
 ----
 Faça um programa que imprima os números pares de 100 até 200, incluindo-os.
 
@@ -59,7 +59,7 @@ while num <= 200:
 ```
 :::
 ---
-###### Exercício 2  
+#### <b>Exercício 2</b>  
 ----
 Uma Empresa oferece para os 10 primeiros clientes um determinado desconto de acordo com o valor da compra efetuada. O desconto é de 20% se o valor da compra for maior ou igual a 1.500,00 Reais, e 15% se for menor. Fazer um programa que leia de cada cliente o valor da compra e o nome do cliente, calcule o desconto e exiba o nome do cliente, valor da compra, o desconto e o valor a ser pago. Ao final, exibir total de descontos dado aos 10 clientes. 
 
@@ -86,7 +86,7 @@ print("total descontos: R${0:.2f}".format(totdesconto))
 :::
 
 ---
-###### Exercício 3  
+#### <b> Exercício 3</b>  
 ----
 Faça um programa que leia a idade de várias pessoas de uma cidade, calcule e imprima média das idades e a quantidade de pessoas por faixa etária. O programa termina quando a idade digitada for igual -1. As faixas etárias consideradas, são: Menor 12 anos, De 12 até 18 e Acima de 18 anos.
  
@@ -124,7 +124,7 @@ print('Quantidade de adultos pesquisados(>18 anos):',contadul)
 :::
 ----
 ----
-###### Exercício 4  
+#### <b> Exercício 4</b>  
 ----
 Faça um programa que leia de várias pessoas, o valor de sua dívida e a quantidade de parcelas para saldá-la. Para cada pessoa, o programa deve calcular e exibir: valor da dívida, valor dos juros, quantidade de parcelas e valor da parcela (juros simples), como mostra o exemplo abaixo. O programa termina quando o valor da dívida for igual -1.
 
