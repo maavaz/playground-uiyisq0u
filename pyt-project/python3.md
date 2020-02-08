@@ -37,7 +37,7 @@ d
 >>> print("abc\\nd")       # \\ irá exibir o caracter barra
 abc\nd
 
->>> print("ab\bc")         # \b representa o bacspace, portanto retornará uma casa.
+>>> print("ab\bc")         # \b representa o backspace, portanto retornará uma casa.
 ac
 
 >>> print("\x41\xA1")      # \x41 representa o A maiúsculo e \xA1 representa o caracterc í
