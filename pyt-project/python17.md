@@ -42,7 +42,7 @@ print ("H")
 -[ ] A B D F G H.
 -[ ] A C D E G H.
 
-###### Exercício 1  
+#### <b> Exercício 1  </b>
 ----
 Escreva um programa que leia a idade de uma pessoa e, se a idade digitada for 21 ou mais anos, imprima a idade juntamente com a mensagem "Você já é maior de 21 anos".
 @[Programacao Python]({"stubs": ["./www/terminal2"],"command": "sh /project/target/www/terminal6.sh" })
@@ -56,7 +56,7 @@ if idade >= 21:
 ```
 :::
 ---
-###### Exercício 2  
+#### <b> Exercício 2  </b>
 ----
 As maçãs custam R$ 1,40 cada se forem compradas menos que uma dúzia e, R$ 1,25 cada, se forem compradas pelo menos uma dúzia. Escreva um programa que leia o número de maçãs compradas, calcule e escreva o valor total da compra.  
 
@@ -77,7 +77,7 @@ print("o valor de sua compra é:", compra)
 :::
 
 ---
-###### Exercício 3  
+### <b> Exercício 3  </b>
 ----
 A escola “APRENDER” faz o pagamento de seus professores por hora/aula mais 15% do salário referente ao Descanso Semanal Remunerado (DSR). Faça um programa que leia o nível do professor (1 ou 2) e a quantidade de horas de aula dadas no Mês, calcule e exiba o salário de um professor. Sabe-se que o valor da hora/aula segue a tabela abaixo: 
 + Professor Nível 1 R$56,00 por hora/aula 
