@@ -39,7 +39,7 @@ In [2]: a + 3      # O número 3 irá ser somado ao número 2 armazenado em "a",
 Out[2]: 5
 
 In [3]: b = 3.2
-
+     
 In [4]: b - 1.1
 Out[4]: 2.1
 
