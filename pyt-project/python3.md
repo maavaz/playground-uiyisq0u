@@ -5,9 +5,9 @@ Ex.: <br>
 "abc" ou 'abc' 
 
 ### <b> Operações com Strings</b>
-+ O operador “+” pode ser usado para concatenar strings <br>
++ O operador <b>+ </b> pode ser usado para concatenar strings <br>
    Ex.: <b> a + b </b>  é o mesmo que  <b>ab </b>
-+ O operador “*” pode ser usado para repetir strings <br>
++ O operador <b>* </b> pode ser usado para repetir strings <br>
    Ex.: <b>a * 10 </b> é o mesmo que  <b>aaaaaaaaaa </b>
 + Os caracteres não imprimíveis (p.ex. Enter) podem ser expressos usando notação "barra-invertida" ("\\")
 ```
