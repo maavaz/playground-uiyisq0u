@@ -9,11 +9,12 @@ Execute os exemplos, a seguir:
 ``` python runnable
 
 # por padrão as strings serão exibidas  com um espaço em branco entre elas
-print("isso", "é", "teste") 
+print("isso", "é", "um", "teste") 
 
 # Pular \n linha na mensagem  
 print("Essa mensagem aparece na primeira linha\nEnquanto essa aparece na segunda") 
 
+x = 10
 #print com separador _ entre os calores a serem exibidos
 print("O quadrado do número", x, "é igual a", x**2, sep='_')
 
