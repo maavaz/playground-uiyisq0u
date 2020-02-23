@@ -3,22 +3,21 @@
 Esse comando (função) permite exibir na tela do usuário mensagens, expressões e/ou valores armazenados em variáveis do programa. 
 
 Forma Geral:
+![excecao](/imagens/print.png)
 
-
-Assim cada string aparecerá separada por um espaço em branco, como no exemplo a seguir:
-<p><b>
-print("isso", "é", "teste")</b> #comando no programa do usuário</p>
-<p><b>isso é teste</b>          #saída na tela do usuário</p>
-
-Outro Exemplo:
-<p><b>
-x = int(input('digite: ')) </b> # O usuário digita o número 123</p>
-<p><b>print("você digitou: ", x) </b> # será exibida a mensagem juntamente com o número digitado</p>
-<p><b>você digitou: 123</b>          #saída na tela do usuário</p>
-
-### <b>Execute o programa (tecla Run) a seguir:</b>
+Execute os exemplos, a seguir:
 ``` python runnable
+
+# por padrão as strings serão exibidas  com um espaço em branco entre elas
+print("isso", "é", "teste") 
+
+# Pular \n linha na mensagem  
 print("Essa mensagem aparece na primeira linha\nEnquanto essa aparece na segunda") 
-x = 10
-print("O quadrado do número", x, "é igual a", x**2)
+
+#print com separador _ entre os calores a serem exibidos
+print("O quadrado do número", x, "é igual a", x**2, sep='_')
+
+#Usando o end para não pular a linha após o print
+print("vou imprimir isso em uma linha ", end=' ')
+print("continuarei na linha de cima")
 ``` 
