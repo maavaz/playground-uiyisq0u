@@ -81,7 +81,7 @@ print("o valor de sua compra é:", compra)
 ----
 A escola “APRENDER” faz o pagamento de seus professores por hora/aula mais 15% do salário referente ao Descanso Semanal Remunerado (DSR). Faça um programa que leia o nível do professor (1 ou 2) e a quantidade de horas de aula dadas no Mês, calcule e exiba o salário de um professor. Sabe-se que o valor da hora/aula segue a tabela abaixo: 
 + Professor Nível 1 R$56,00 por hora/aula 
-+ Professor Nível 2 R$66,00 por hora/aula 
++ Professor Nível 2 R$66,00 por hora/aula <br>
 Obs: Exiba o salário formatado com 2 casas decimais.
  @[Programacao Python]({"stubs": ["./www/terminal2"],"command": "sh /project/target/www/terminal8.sh" })
  
