@@ -15,7 +15,7 @@ Um programa python gera um arquivo com a extensão **.py** e pode ser executado 
 
 ## Executando um programa
 
-Uma vez criado o programa (p.ex. exemplo.py) pode excutá-lo diretamente no shell do python digitando:
+Uma vez criado o programa (p.ex. exemplo.py) pode executá-lo diretamente no shell do python digitando:
   ```
             C:\Python36-32> python exemplo.py
   ```    
