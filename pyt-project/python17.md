@@ -4,7 +4,7 @@
 -[ ] Programação Python############
 -[x] ######Programação Python######
 -[ ] ############Programação Python
--[ ] #Progrmamação Python#
+-[ ] #Programação Python#
 
 Observe o trecho do programa abaixo.
 ``` 
